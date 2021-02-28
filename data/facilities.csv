@@ -1,3 +1,76 @@
-id,name,jurisdiction,agency,createdAt,source,populationFeb20,residentsPopulation,state,address,zipcode,city,county,latitude,longitude,countyFIPS,HIFLID,rawName
-sdfd,sdf,state,sdf,sdf,sdf,23,23,US,23,91103,Test,test,123.123,323.323,343,2334,sdf
-sdfs,sdf,state,sdf,sdf,sdf,23,23,US,23,91103,Test,test,123.123,323.323,343,2334,sdf
+id,name,jurisdiction,agency,createdAt,populationFeb20,residentsPopulation,state,address,zipcode,city,county,latitude,longitude,countyFIPS,HIFLID,rawName
+sdfd,sdf,state,sdf,sdf,23,23,US,23,91103,Test,test,123.123,323.323,343,2334,sdf
+sdfs,sdf,state,sdf,sdf,23,23,US,23,91103,Test,test,123.123,323.323,343,2334,sdf
+132575f1b9f93bbfd5a461d26d38366304f4bc91,South Boise Womens Correctional Center (SBWCC),,Idaho Department Of Corrections,2021-01-12T22:25:36.356Z,,,ID,,,,,,,,,South Boise Womens Correctional Center (SBWCC)
+8c7cf49c46d0b594c848722850b6eb7340090e40,South Idaho Correctional Institution (SICI),,Idaho Department Of Corrections,2021-01-12T22:25:39.261Z,,,ID,,,,,,,,,South Idaho Correctional Institution (SICI)
+bf8f15894850436564c377880855b9cdf35d0783,Nampa CRC (N-CRC),,Idaho Department Of Corrections,2021-01-12T22:25:44.522Z,,,ID,,,,,,,,,Nampa CRC (N-CRC)
+e1bbc3c70e8451c74b9fee5bf868442a4ff31566,Twin Falls CRC (TF-CRC),,Idaho Department Of Corrections,2021-01-12T22:25:48.190Z,,,ID,,,,,,,,,Twin Falls CRC (TF-CRC)
+04f24dfda71673fa48713a8707017242d707cbda,Idaho State Correctional Center (ISCC),,Idaho Department Of Corrections,2021-01-12T22:25:51.970Z,,,ID,,,,,,,,,Idaho State Correctional Center (ISCC)
+7a6e14e90f57ad3e9ce0c57b65cc66245644f4c8,Idaho State Correctional Institution (ISCI),,Idaho Department Of Corrections,2021-01-12T22:25:56.264Z,,,ID,,,,,,,,,Idaho State Correctional Institution (ISCI)
+3f65a5ca5ae91ccf42e202ba57f4d3b898ae2249,MISC-NON-DOC,,Idaho Department Of Corrections,2021-01-12T22:26:00.737Z,,,ID,,,,,,,,,MISC-NON-DOC
+3beb8c4639a47f8e3a695608e1d19e4f86427b0d,North Idaho Correctional Institution (NICI),,Idaho Department Of Corrections,2021-01-12T22:26:05.449Z,,,ID,,,,,,,,,North Idaho Correctional Institution (NICI)
+b092491de25b5ad9cb7cf2fcdb89050cff116fd7,St. Anthony Work Camp (SAWC),,Idaho Department Of Corrections,2021-01-12T22:26:09.746Z,,,ID,,,,,,,,,St. Anthony Work Camp (SAWC)
+3b49b433a69d285c1517ebd94f9ae5e5c7750cdb,Idaho Falls CRC (IF-CRC),,Idaho Department Of Corrections,2021-01-12T22:26:13.880Z,,,ID,,,,,,,,,Idaho Falls CRC (IF-CRC)
+006a936a2f457576f0ac10088af43819be24b240,County Facilities,,Idaho Department Of Corrections,2021-01-12T22:26:20.007Z,,,ID,,,,,,,,,County Facilities
+32d25da89953ccde8dd59caa704db30abf3d51a9,Treasure Valley CRC (TV-CRC),,Idaho Department Of Corrections,2021-01-12T22:26:26.205Z,,,ID,,,,,,,,,Treasure Valley CRC (TV-CRC)
+9e5cb05af83b63b4c39a588aa0b32c5e9ffd110e,Correctional Alternative Placement Program (CAPP),,Idaho Department Of Corrections,2021-01-12T22:26:35.078Z,,,ID,,,,,,,,,Correctional Alternative Placement Program (CAPP)
+f15d55b1317e6401e66131c62bd13780bd5efef7,Idaho Maximum Security Institution (IMSI),,Idaho Department Of Corrections,2021-01-12T22:26:44.063Z,,,ID,,,,,,,,,Idaho Maximum Security Institution (IMSI)
+70c76dc88dfd1337c8cf2f690ad67321257aa013,East Boise CRC (EB-CRC),,Idaho Department Of Corrections,2021-01-12T22:26:45.697Z,,,ID,,,,,,,,,East Boise CRC (EB-CRC)
+5d25c945f53001759621af8e7e3c0c3660160c54,Idaho Correctional Institution-Orofino (ICIO),,Idaho Department Of Corrections,2021-01-12T22:26:49.961Z,,,ID,,,,,,,,,Idaho Correctional Institution-Orofino (ICIO)
+aeea5f29ede82f2cc11c9d5dd747e7aeded36c1e,Pocatello Womens Correctional Center (PWCC),,Idaho Department Of Corrections,2021-01-12T22:26:54.885Z,,,ID,,,,,,,,,Pocatello Womens Correctional Center (PWCC)
+97f3dc1367f217899870bdfcd081f64017bbdbb4,Clinton County Jail,,Clinton County Sheriffs Office,2021-01-12T22:27:08.720Z,,,IL,,,,,,,,,Clinton County Jail
+2b89abaed04709bfb198153e7b1433bb60079e5a,Fayette County Sheriffs Office,,Fayette County Sheriffs Office,2021-01-12T22:27:19.108Z,,,IL,,,,,,,,,Fayette County Sheriffs Office
+cdb3f64daca62b9ce7023f42aaf7f8d097b7c349,Kane County Sheriffs Office,,Kane County Sheriffs Office,2021-01-12T22:27:29.209Z,,,IL,,,,,,,,,Kane County Sheriffs Office
+01bf5fbc3ae0243c98c25c83862a09c7921d5bb5,Madison County Jail,,Madison County Sheriffs Office,2021-01-12T22:27:38.506Z,,,IL,,,,,,,,,Madison County Jail
+35101fd7d0479273e0ca8008fbd5041162c0bdea,Marion County Jail,,Marion County Sheriffs Office,2021-01-12T22:27:48.009Z,,,IL,,,,,,,,,Marion County Jail
+663554ee6bc31f843d033bbdcdb354791e1c4bff,McHenry County Correctional Facility,,McHenry County Sheriff,2021-01-12T22:27:58.819Z,,,IL,,,,,,,,,McHenry County Correctional Facility
+2197f2cb9155b264284184a0628bad349451e1e2,McLean County Adult Detention Facility,,McLean County,2021-01-12T22:28:08.724Z,,,IL,,,,,,,,,McLean County Adult Detention Facility
+e6fbfd0fab82356bc52e21d07b0815bdf297b493,Perry County Jail,,Perry County Sheriffs Office,2021-01-12T22:28:19.420Z,,,IL,,,,,,,,,Perry County Jail
+3d52e3c895cb21ce1b45efe3da4910041af7e410,Sangamon County Jail,,Sangamon County Sheriffs Office,2021-01-12T22:28:28.106Z,,,IL,,,,,,,,,Sangamon County Jail
+bda265db442dc8a7aca41bdcb038269723e73e14,Blackford County Sheriffs Office,,Blackford County,2021-01-12T22:28:40.810Z,,,IN,,,,,,,,,Blackford County Sheriffs Office
+fec9d03df962a3d0e269d10466283443484763a2,Boone County Jail,,Boone County Sheriffs Office,2021-01-12T22:28:49.997Z,,,IN,,,,,,,,,Boone County Jail
+3d02672c12493b6a41d0dfb452debcf079d06b29,Dekalb County Community Corrections,,Dekalb County Community Corrections,2021-01-12T22:29:00.425Z,,,IN,,,,,,,,,Dekalb County Community Corrections
+e91bcb7514c95535dfd3205cb8a0edd9d5ef2678,Dekalb County Sheriffs Office,,Dekalb County Sheriffs Office,2021-01-12T22:29:11.420Z,,,IN,,,,,,,,,Dekalb County Sheriffs Office
+8302f91c37e301ab4676114a97a63e5ab65c51cc,Fayette County Jail,,Fayette County Sheriffs Office,2021-01-12T22:29:22.306Z,,,IN,,,,,,,,,Fayette County Jail
+5ebdeb0d971b573f5845c11fea09a1e8e80bf2d9,Huntington County Sheriffs Office,,Huntington County,2021-01-12T22:29:32.711Z,,,IN,,,,,,,,,Huntington County Sheriffs Office
+cf63d666b6172ee7094ae99eb6ee0fa47293209f,Steuben County Jail,,Steuben County Sheriffs Office,2021-01-12T22:29:42.953Z,,,IN,,,,,,,,,Steuben County Jail
+87788ce4b98870545debed0f3b4a5447a6941d8f,Dubuque County Jail,,Dubuque County,2021-01-12T22:29:56.917Z,,,IA,,,,,,,,,Dubuque County Jail
+f89269592ff87e4301886802a6b309455b823fdc,Jasper County Jail,,Jasper County Sheriffs Office,2021-01-12T22:30:06.410Z,,,IA,,,,,,,,,Jasper County Jail
+a7b7004d8d5989734a174815894bb01a13a14718,Phillips County Detention Center,,Phillips County,2021-01-12T22:30:18.010Z,,,KS,,,,,,,,,Phillips County Detention Center
+f6c3070d9c56e6ad6030434f3233e2bdef2c21f6,Leavenworth Detention Center,,Leavenworth Detention Center,2021-01-12T22:30:26.835Z,,,KS,,,,,,,,,Leavenworth Detention Center
+d33113cc6aeb46a9d165caa21100b2a49059fbc5,Tallahatchie WYDOC,,Leavenworth Detention Center,2021-01-12T22:30:30.579Z,,,KS,,,,,,,,,Tallahatchie WYDOC
+922c9ba4697281c47d14fd4b8feb1c64d932b177,Silverdale Detention Facilities,,Leavenworth Detention Center,2021-01-12T22:30:35.610Z,,,KS,,,,,,,,,Silverdale Detention Facilities
+67e5152e527e94888da7ff09b4b364b4d289b1c3,Tallahatchie  MSDOC,,Leavenworth Detention Center,2021-01-12T22:30:39.647Z,,,KS,,,,,,,,,Tallahatchie  MSDOC
+f87d9f0deb773b7ce2e41f6af423e598903f00fb,Hardeman County Correctional Center,,Leavenworth Detention Center,2021-01-12T22:30:43.807Z,,,KS,,,,,,,,,Hardeman County Correctional Center
+574d4e35f66ad2ab070b819813466fd668b88a3f,La Palma Correctional Center,,Leavenworth Detention Center,2021-01-12T22:30:48.250Z,,,KS,,,,,,,,,La Palma Correctional Center
+958e173e98d31b9065f1a6e9380dd112739b48d1,West Tennessee Detention Facility,,Leavenworth Detention Center,2021-01-12T22:30:52.640Z,,,KS,,,,,,,,,West Tennessee Detention Facility
+18f608a767b628c10f5298b06edd3d6170c7b754,Whiteville Correctional Facility,,Leavenworth Detention Center,2021-01-12T22:30:58.251Z,,,KS,,,,,,,,,Whiteville Correctional Facility
+2a0da2c6ffee7b9e4370417c6d12d1cb58890591,Tallahatchie County Correctional Facility,,Leavenworth Detention Center,2021-01-12T22:31:02.113Z,,,KS,,,,,,,,,Tallahatchie County Correctional Facility
+cf383bd9e694bfc79228b74308dff2d9ec6efc33,Tallahatchie ICE,,Leavenworth Detention Center,2021-01-12T22:31:06.059Z,,,KS,,,,,,,,,Tallahatchie ICE
+c277d7c9c22885aedddb12cce5c576ae348db06e,Tallahatchie VTDOC,,Leavenworth Detention Center,2021-01-12T22:31:11.513Z,,,KS,,,,,,,,,Tallahatchie VTDOC
+0a69e745b8a6ce8416c137f4461404f4331eb657,Tallahatchie PRDOC,,Leavenworth Detention Center,2021-01-12T22:31:16.028Z,,,KS,,,,,,,,,Tallahatchie PRDOC
+867f5aeac47c3d9d62d3d4cd28242624424f0523,Nevada Southern Detention Center,,Leavenworth Detention Center,2021-01-12T22:31:20.941Z,,,KS,,,,,,,,,Nevada Southern Detention Center
+f119e264ead57e31d289de952b6f53bcaa0389e6,Tallahatchie SCDOC,,Leavenworth Detention Center,2021-01-12T22:31:25.157Z,,,KS,,,,,,,,,Tallahatchie SCDOC
+a183b17a77f076eb8f2c56f0a734e10d116acbc2,Douglas County Correctional Facility,,Douglas County,2021-01-12T22:31:34.706Z,,,KS,,,,,,,,,Douglas County Correctional Facility
+a5267d5aa4663207319e4dc172c266c395e7afc7,Douglas offsite housing,,Douglas County,2021-01-12T22:31:37.553Z,,,KS,,,,,,,,,Douglas offsite housing
+1ed14d6d0276803544dea289a39a4803362674bf,Finney County Jail,,Finney County Sheriffs Office,2021-01-12T22:31:46.715Z,,,KS,,,,,,,,,Finney County Jail
+9e196fa7df94f79369c8f17291e75872705b387b,El Dorado,,Kansas Department of Corrections,2021-01-12T22:31:55.422Z,,,KS,,,,,,,,,El Dorado
+1cdfb16353bee4856056db9098dee046b96cca06,Larned,,Kansas Department of Corrections,2021-01-12T22:31:59.036Z,,,KS,,,,,,,,,Larned
+25f5f71f716fcd65f5e0180bc2bd94c79dcfea02,Ellsworth,,Kansas Department of Corrections,2021-01-12T22:32:04.624Z,,,KS,,,,,,,,,Ellsworth
+4b53224b0485142d931d7264d7c204bd675a2626,El Dorado South East,,Kansas Department of Corrections,2021-01-12T22:32:09.005Z,,,KS,,,,,,,,,El Dorado South East
+07cadc1a9878d472e55c693966192f7036d2df91,Wichita,,Kansas Department of Corrections,2021-01-12T22:32:13.345Z,,,KS,,,,,,,,,Wichita
+f95f0b232dcb5e07fb1cdafbf341ef4bbff8f4ac,Winfield,,Kansas Department of Corrections,2021-01-12T22:32:17.224Z,,,KS,,,,,,,,,Winfield
+b5385e61ffa69a311f616c7c9b92b19d80d12017,Hutchinson,,Kansas Department of Corrections,2021-01-12T22:32:21.058Z,,,KS,,,,,,,,,Hutchinson
+1d9223453a739685ead5a71f7db9b1d1957adefd,All Facilities,,Kansas Department of Corrections,2021-01-12T22:32:25.546Z,,,KS,,,,,,,,,All Facilities
+6ceb0f1d2b618d2db9e3281936c250a57d35ef85,LCF - Minimum Facility E,,Kansas Department of Corrections,2021-01-12T22:32:30.503Z,,,KS,,,,,,,,,LCF - Minimum Facility E
+f7b9c8c369e30af5efa2924cf90f89ac97610105,Lansing,,Kansas Department of Corrections,2021-01-12T22:32:34.444Z,,,KS,,,,,,,,,Lansing
+615d27d6e45b7418d1deaf7e556bddedfe984f3c,Central Office,,Kansas Department of Corrections,2021-01-12T22:32:37.992Z,,,KS,,,,,,,,,Central Office
+0fc8cb90feccea33b08c0d783f250c68420ced6c,Ellsworth Correctional Facility East Unit,,Kansas Department of Corrections,2021-01-12T22:32:43.905Z,,,KS,,,,,,,,,Ellsworth Correctional Facility East Unit
+0d63cf4b360f049b492a8c280da5ab82b01ddc0c,Topeka,,Kansas Department of Corrections,2021-01-12T22:32:47.943Z,,,KS,,,,,,,,,Topeka
+9544ee8c7021333498e0c5ae031f2c2c33952cfe,East Hutchinson,,Kansas Department of Corrections,2021-01-12T22:32:51.965Z,,,KS,,,,,,,,,East Hutchinson
+10b77f1480c7ea7a9c4f804f28dcc20ac345ea49,Norton,,Kansas Department of Corrections,2021-01-12T22:32:55.817Z,,,KS,,,,,,,,,Norton
+7569f806f544aa3564ca9d8dffdc9a0d637d2b06,Stockton,,Kansas Department of Corrections,2021-01-12T22:33:00.763Z,,,KS,,,,,,,,,Stockton
+0e9c08d626f1e6c1f5b7464db8df32ca47b27c9a,Kansas Juvenile Correctional Centers,,Kansas Department of Corrections Juvenile Services,2021-01-12T22:33:11.597Z,,,KS,,,,,,,,,Kansas Juvenile Correctional Centers
+8c6c62e8c09c1d8e1f7366306a6cf89ec6427d04,Larned State Hospital - PSP,,Larned State Hospital,2021-01-12T22:33:21.826Z,,,KS,,,,,,,,,Larned State Hospital - PSP
+415d75f6e5d5ee95dc086f8d5af37d8402f8318b,Larned State Hospital - SPTP,,Larned State Hospital,2021-01-12T22:33:24.666Z,,,KS,,,,,,,,,Larned State Hospital - SPTP
+e7ccea19aa0f2a01585db901407e7592fb9fd760,Larned State Hospital - SSP,,Larned State Hospital,2021-01-12T22:33:29.172Z,,,KS,,,,,,,,,Larned State Hospital - SSP
