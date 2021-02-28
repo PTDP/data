@@ -36,38 +36,38 @@ The full set of variables that we report includes the following:
 
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| `ID`                   | Integer ID that uniquely identifies every rate                                                                                 |
-| `Source`               | The URI from which each rate was scraped                                                                                       |
-| `DurationInitial`      | The billing period (seconds) at the beginning of a telecom service. For example, the first minute of a call.                   |
-| `DurationAdditional`   | The billing increment following the `DurationInitial`. For example, every minute following the first minute of a call.         |
-| `AmountInitial`        | The amount (USD, cents) that a telecom service costs during the `DurationInitial` period.                                      |
-| `AmountAdditional`     | The amount (USD, cents) that a telecom service costs during each `DurationAdditional` period.     
-| `AmountTax`            | The percent tax applied to the sum of all billing line-items associated with the call itself. When not provided explicitly by a vendor, the tax percent is calculated from a given-tax line-item, and rounded to 2 significant digits.   
-| `Phone`                | The phone number provided to the rate calculator.                                                                              |
-| `InState`              | Boolean representing whether the origin phone number is located in the same state as the facility called.                      |
-| `Facility`             | The unique facility ID associated with the rate. See the `Facility` table below.                                                                                                                                                    |
-| `Scraped`              | An array of ISO Strings (UTC) representing each time a scraper encountered this unique rate. We consider a rate to be unique if any of the tracked variables (other than `Scraped`) are unique.                                                                                                      |       
+| `id`                   | Integer ID that uniquely identifies every rate                                                                                 |
+| `source`               | The URI from which each rate was scraped                                                                                       |
+| `durationInitial`      | The billing period (seconds) at the beginning of a telecom service. For example, the first minute of a call.                   |
+| `durationAdditional`   | The billing increment following the `durationInitial`. For example, every minute following the first minute of a call.         |
+| `amountInitial`        | The amount (USD, cents) that a telecom service costs during the `durationInitial` period.                                      |
+| `amountAdditional`     | The amount (USD, cents) that a telecom service costs during each `durationAdditional` period.     
+| `amountTax`            | The percent tax applied to the sum of all billing line-items associated with the call itself. When not provided explicitly by a vendor, the tax percent is calculated from a given-tax line-item, and rounded to 2 significant digits.   
+| `phone`                | The phone number provided to the rate calculator.                                                                              |
+| `inState`              | Boolean representing whether the origin phone number is located in the same state as the facility called.                      |
+| `facility`             | The unique facility ID associated with the rate. See the `facility` table below.                                                                                                                                                    |
+| `scraped`              | An array of ISO Strings (UTC) representing each time a scraper encountered this unique rate. We consider a rate to be unique if any of the tracked variables (other than `scraped`) are unique.                                                                                                      |       
 
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| `ID`                   | Integer ID that uniquely identifies every facility                                                                             |
-| `Name`                 | Normalized Facility Name                                                                                                       |
-| `Jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, or `immigration` jurisdiction                                   |
-| `Agency`               | Normalized Agency Name                                                                                                         |
-| `CreatedAt`            | Date data was first scraped (not necessarily date updated by the reporting source)                                             |  
-| `Source`               | Source from which the data was scraped                                                                                         |
-| `PopulationFeb20`      | Population of the facility as close to February 1, 2020 as possible                                                            |
-| `ResidentsPopulation`  | Current population of incarcerated individuals reported by agency website                                                      |
-| `State`                | State where the facility is located                                                                                            |
-| `Address`              | The facility's address                                                                                                         |
-| `Zipcode`              | The facility's zipcode                                                                                                         |
-| `City`                 | The facility's city                                                                                                            |
-| `County`               | The facility's county                                                                                                          |
-| `Latitude`             | The facility's latitude                                                                                                        |
-| `Longitude`            | The facility's longitude                                                                                                       |
-| `CountyFIPS`           | The facility's 5-digit county FIPS code                                                                                        |
+| `id`                   | Integer ID that uniquely identifies every facility                                                                             |
+| `name`                 | Normalized Facility Name                                                                                                       |
+| `jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, or `immigration` jurisdiction                                   |
+| `agency`               | Normalized Agency Name                                                                                                         |
+| `createdAt`            | Date data was first scraped (not necessarily date updated by the reporting source)                                             |  
+| `source`               | Source from which the data was scraped                                                                                         |
+| `populationFeb20`      | Population of the facility as close to February 1, 2020 as possible                                                            |
+| `residentsPopulation`  | Current population of incarcerated individuals reported by agency website                                                      |
+| `state`                | State where the facility is located                                                                                            |
+| `address`              | The facility's address                                                                                                         |
+| `zipcode`              | The facility's zipcode                                                                                                         |
+| `city`                 | The facility's city                                                                                                            |
+| `county`               | The facility's county                                                                                                          |
+| `latitude`             | The facility's latitude                                                                                                        |
+| `longitude`            | The facility's longitude                                                                                                       |
+| `countyFIPS`           | The facility's 5-digit county FIPS code                                                                                        |
 | `HIFLDID`              | The facility's corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
-| `RawName`              | Name From Scraper                                                                                                              |
+| `rawName`              | Name From Scraper                                                                                                              |
 
 ## Citations
 
