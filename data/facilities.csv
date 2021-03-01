@@ -1,1 +1,666 @@
 id,name,jurisdiction,agency,createdAt,populationFeb20,residentsPopulation,state,address,zipcode,city,county,latitude,countyFIPS,HIFLID,rawName
+37ece81330c1c1,Cullman County Detention Center,,Cullman County Sheriffs Office,2021-01-07T20:11:45.553Z,,,AL,,,,,,,,Cullman County Detention Center
+1d4de85324b8e2,Dale County Jail,,Dale County Jail,2021-01-07T20:11:51.054Z,,,AL,,,,,,,,Dale County Jail
+ff3057542aa751,Hoover City Police Department,,Hoover City Police Department,2021-01-07T20:12:00.972Z,,,AL,,,,,,,,Hoover City Police Department
+cd54a21092d3ba,Morgan County Jail,,Morgan County Jail,2021-01-07T20:12:09.152Z,,,AL,,,,,,,,Morgan County Jail
+7bfee3463dae58,ASPC-Papago,,Arizona Department of Corrections,2021-01-07T20:12:23.765Z,,,AZ,,,,,,,,ASPC-Papago
+7aa336c70afd0c,ASPC-Ft Grant,,Arizona Department of Corrections,2021-01-07T20:12:26.798Z,,,AZ,,,,,,,,ASPC-Ft Grant
+ecf292d4e06d95,ASP-Marana CCTF,,Arizona Department of Corrections,2021-01-07T20:12:30.742Z,,,AZ,,,,,,,,ASP-Marana CCTF
+92954796c66e5e,ASPC-Tucson,,Arizona Department of Corrections,2021-01-07T20:12:34.942Z,,,AZ,,,,,,,,ASPC-Tucson
+53a6c9d9774616,ASPC-Yuma,,Arizona Department of Corrections,2021-01-07T20:12:38.960Z,,,AZ,,,,,,,,ASPC-Yuma
+7a34c5e751a2fe,ASP-Kingman,,Arizona Department of Corrections,2021-01-07T20:12:42.954Z,,,AZ,,,,,,,,ASP-Kingman
+fc97ecdaa8b4b3,ASP-Red Rock Correctional Center,,Arizona Department of Corrections,2021-01-07T20:12:46.763Z,,,AZ,,,,,,,,ASP-Red Rock Correctional Center
+f311af0f0dbe11,ASP-Central Arizona CACF,,Arizona Department of Corrections,2021-01-07T20:12:50.367Z,,,AZ,,,,,,,,ASP-Central Arizona CACF
+6839e352405c39,ASPC-Florence,,Arizona Department of Corrections,2021-01-07T20:12:54.170Z,,,AZ,,,,,,,,ASPC-Florence
+7970cac205345b,ASPC-Apache,,Arizona Department of Corrections,2021-01-07T20:12:58.331Z,,,AZ,,,,,,,,ASPC-Apache
+26895dc0820514,ASPC-Winslow,,Arizona Department of Corrections,2021-01-07T20:13:01.472Z,,,AZ,,,,,,,,ASPC-Winslow
+c77b2ff1ef4f99,ASPC-Phoenix,,Arizona Department of Corrections,2021-01-07T20:13:05.797Z,,,AZ,,,,,,,,ASPC-Phoenix
+c1c2a0fa56dd50,ASP-Phoenix West,,Arizona Department of Corrections,2021-01-07T20:13:09.545Z,,,AZ,,,,,,,,ASP-Phoenix West
+d525c6343e346f,ASPC-Lewis,,Arizona Department of Corrections,2021-01-07T20:13:13.571Z,,,AZ,,,,,,,,ASPC-Lewis
+cf6d99569d731b,ASPC-Perryville,,Arizona Department of Corrections,2021-01-07T20:13:16.947Z,,,AZ,,,,,,,,ASPC-Perryville
+f053c9d52a2739,ASPC-Eyman,,Arizona Department of Corrections,2021-01-07T20:13:20.666Z,,,AZ,,,,,,,,ASPC-Eyman
+6144fbfee40b62,ASP-Florence West,,Arizona Department of Corrections,2021-01-07T20:13:24.873Z,,,AZ,,,,,,,,ASP-Florence West
+07e90175535056,ASPC-Globe,,Arizona Department of Corrections,2021-01-07T20:13:29.341Z,,,AZ,,,,,,,,ASPC-Globe
+fdf13f86357955,ASPC-Safford,,Arizona Department of Corrections,2021-01-07T20:13:33.293Z,,,AZ,,,,,,,,ASPC-Safford
+eafb0b2f3a930c,ASPC-Douglas,,Arizona Department of Corrections,2021-01-07T20:13:38.136Z,,,AZ,,,,,,,,ASPC-Douglas
+e5b1ffd8c86a34,Central Arizona - Florence NVDOC,,Central Arizona,2021-01-07T20:13:48.960Z,,,AZ,,,,,,,,Central Arizona - Florence NVDOC
+734ee5059b5e95,Crossroads Correctional Center,,Central Arizona,2021-01-07T20:13:51.667Z,,,AZ,,,,,,,,Crossroads Correctional Center
+28a5882bf17e92,Saguaro-NVDOC,,Central Arizona,2021-01-07T20:13:55.479Z,,,AZ,,,,,,,,Saguaro-NVDOC
+71174f1dcf28fa,Saguaro Correctional Center,,Central Arizona,2021-01-07T20:13:58.840Z,,,AZ,,,,,,,,Saguaro Correctional Center
+3b33f49d7e6d85,Central Arizona - Florence Correctional Complex,,Central Arizona,2021-01-07T20:14:02.147Z,,,AZ,,,,,,,,Central Arizona - Florence Correctional Complex
+66871b67ebc837,Saguaro-USMS,,Central Arizona,2021-01-07T20:14:06.862Z,,,AZ,,,,,,,,Saguaro-USMS
+451f845d7c04d7,Leavenworth Detention Center,,La Palma Correctional Center,2021-01-07T20:16:07.475Z,,,AZ,,,,,,,,Leavenworth Detention Center
+4f99816cc91af8,Tallahatchie WYDOC,,La Palma Correctional Center,2021-01-07T20:16:10.338Z,,,AZ,,,,,,,,Tallahatchie WYDOC
+b218365a3b07e8,Silverdale Detention Facilities,,La Palma Correctional Center,2021-01-07T20:16:14.058Z,,,AZ,,,,,,,,Silverdale Detention Facilities
+435f0cb2346293,Tallahatchie  MSDOC,,La Palma Correctional Center,2021-01-07T20:16:17.635Z,,,AZ,,,,,,,,Tallahatchie  MSDOC
+7beb32ab884798,Hardeman County Correctional Center,,La Palma Correctional Center,2021-01-07T20:16:21.404Z,,,AZ,,,,,,,,Hardeman County Correctional Center
+0482cff4f80270,La Palma Correctional Center,,La Palma Correctional Center,2021-01-07T20:16:25.059Z,,,AZ,,,,,,,,La Palma Correctional Center
+15770acc35a290,West Tennessee Detention Facility,,La Palma Correctional Center,2021-01-07T20:16:29.040Z,,,AZ,,,,,,,,West Tennessee Detention Facility
+f8bb63d2c168f4,Whiteville Correctional Facility,,La Palma Correctional Center,2021-01-07T20:16:33.175Z,,,AZ,,,,,,,,Whiteville Correctional Facility
+098eb18fda2472,Tallahatchie County Correctional Facility,,La Palma Correctional Center,2021-01-07T20:16:38.095Z,,,AZ,,,,,,,,Tallahatchie County Correctional Facility
+3664d6afe12bd0,Tallahatchie ICE,,La Palma Correctional Center,2021-01-07T20:16:42.248Z,,,AZ,,,,,,,,Tallahatchie ICE
+cfb8d594b958e4,Tallahatchie VTDOC,,La Palma Correctional Center,2021-01-07T20:16:45.372Z,,,AZ,,,,,,,,Tallahatchie VTDOC
+03ff873261cd60,Tallahatchie PRDOC,,La Palma Correctional Center,2021-01-07T20:16:49.239Z,,,AZ,,,,,,,,Tallahatchie PRDOC
+3c46177b45486f,Nevada Southern Detention Center,,La Palma Correctional Center,2021-01-07T20:16:52.656Z,,,AZ,,,,,,,,Nevada Southern Detention Center
+e3c0bcac3605fb,Tallahatchie SCDOC,,La Palma Correctional Center,2021-01-07T20:16:56.156Z,,,AZ,,,,,,,,Tallahatchie SCDOC
+b19fae5067145a,Saguaro-KSDOC,,CoreCivic,2021-01-07T20:17:07.265Z,,,AZ,,,,,,,,Saguaro-KSDOC
+9c9410c02d6200,Saguaro-IDDOC,,CoreCivic Saguaro,2021-01-07T20:17:17.362Z,,,AZ,,,,,,,,Saguaro-IDDOC
+c536f74dd6cc2e,Graham County Jail,,Graham County Sheriffs Office,2021-01-07T20:17:26.858Z,,,AZ,,,,,,,,Graham County Jail
+0714c115e5f11c,Eastern Arizona Regional Juvenile Detention Facility,,Graham County Sheriffs Office,2021-01-07T20:17:30.145Z,,,AZ,,,,,,,,Eastern Arizona Regional Juvenile Detention Facility
+c1d14972191d74,Mohave County Jail,,Mohave County Sheriffs Office,2021-01-07T20:17:40.458Z,,,AZ,,,,,,,,Mohave County Jail
+d0a7f334057381,Mohave County Juvenile Detention Facility,,Mohave County Sheriffs Office,2021-01-07T20:17:43.255Z,,,AZ,,,,,,,,Mohave County Juvenile Detention Facility
+ed29a116036d5a,Phillips County Detention Center,,Phillips County,2021-01-07T20:17:54.873Z,,,AR,,,,,,,,Phillips County Detention Center
+933ccfb0dfd1cd,Butte County Jail,,Butte County Sheriffs Office,2021-01-07T20:18:06.460Z,,,CA,,,,,,,,Butte County Jail
+2193f7d8a69bcf,Butte County Juvenile Hall,,Butte County Sheriffs Office,2021-01-07T20:18:09.255Z,,,CA,,,,,,,,Butte County Juvenile Hall
+fd0948ed695c4a,Off Premise,,Butte County Sheriffs Office,2021-01-07T20:18:13.276Z,,,CA,,,,,,,,Off Premise
+7603f5f6a6f52a,Geo El Centro Detention Facility,,"Geo El Centro Detention Facility, CA",2021-01-07T20:18:41.256Z,,,CA,,,,,,,,Geo El Centro Detention Facility
+fa14f5d226c4cb,GEO WRDF San Diego,,GEO WRDF San Diego,2021-01-07T20:18:49.559Z,,,CA,,,,,,,,GEO WRDF San Diego
+0c3b08e3f93f51,Humboldt County Correctional Facility,,Humboldt County Correctional Facility,2021-01-07T20:18:58.165Z,,,CA,,,,,,,,Humboldt County Correctional Facility
+aed4a781b69f1b,Humboldt County Juvenile Hall,,Humboldt County Correctional Facility,2021-01-07T20:19:00.956Z,,,CA,,,,,,,,Humboldt County Juvenile Hall
+f60c1fe98e2696,Kings County Jail,,Kings County,2021-01-07T20:19:24.451Z,,,CA,,,,,,,,Kings County Jail
+2e31d70153058a,Kings County Branch Jail,,Kings County,2021-01-07T20:19:27.428Z,,,CA,,,,,,,,Kings County Branch Jail
+1de98feb471d60,Kings County Juvenile Institution,,Kings County,2021-01-07T20:19:31.664Z,,,CA,,,,,,,,Kings County Juvenile Institution
+9f7ea593959fa0,Lake County Jail,,Lake County Sheriffs Office,2021-01-07T20:19:55.560Z,,,CA,,,,,,,,Lake County Jail
+ebf98b046b99d9,Mendocino County Jail,,Mendocino County Sheriffs Office,2021-01-07T20:20:04.084Z,,,CA,,,,,,,,Mendocino County Jail
+72d74e4f00ac06,Mendocino County Juvenile  Hall,,Mendocino County Sheriffs Office,2021-01-07T20:20:07.455Z,,,CA,,,,,,,,Mendocino County Juvenile  Hall
+632daacaaf641e,Placer County Jail,,Placer County Sheriffs Office,2021-01-07T20:20:18.365Z,,,CA,,,,,,,,Placer County Jail
+47aa01deab5fc0,Placer Juvenile Detention Facility,,Placer County Sheriffs Office,2021-01-07T20:20:21.423Z,,,CA,,,,,,,,Placer Juvenile Detention Facility
+ec1542690f7ef0,South Placer Adult Correctional Facility,,Placer County Sheriffs Office,2021-01-07T20:20:25.356Z,,,CA,,,,,,,,South Placer Adult Correctional Facility
+b86adf32dfbf83,Rio Cosumnes Corr. Center,,Sacramento County Sheriff,2021-01-07T20:20:35.060Z,,,CA,,,,,,,,Rio Cosumnes Corr. Center
+ccbca890e5b57c,Sacramento Juvenile Detention,,Sacramento County Sheriff,2021-01-07T20:20:38.424Z,,,CA,,,,,,,,Sacramento Juvenile Detention
+48b54ad5572ed2,Sacramento Main Jail,,Sacramento County Sheriff,2021-01-07T20:20:42.427Z,,,CA,,,,,,,,Sacramento Main Jail
+2935a737ab0964,Maguire Correctional Facility,,San Mateo County Sheriffs Office,2021-01-07T20:20:52.659Z,,,CA,,,,,,,,Maguire Correctional Facility
+8270c26b29d5bc,Maple Street Correctional Center,,San Mateo County Sheriffs Office,2021-01-07T20:20:55.453Z,,,CA,,,,,,,,Maple Street Correctional Center
+3086cde050f326,Santa Cruz Main Jail,,Santa Cruz County Sheriff,2021-01-07T20:21:05.663Z,,,CA,,,,,,,,Santa Cruz Main Jail
+101c9b5e48f590,Santa Cruz Farm,,Santa Cruz County Sheriff,2021-01-07T20:21:08.456Z,,,CA,,,,,,,,Santa Cruz Farm
+63b153c62af891,Santa Cruz County Jail,,Santa Cruz County Sheriff,2021-01-07T20:21:12.647Z,,,CA,,,,,,,,Santa Cruz County Jail
+c6a58f1fbcb758,Santa Cruz Blaine,,Santa Cruz County Sheriff,2021-01-07T20:21:16.232Z,,,CA,,,,,,,,Santa Cruz Blaine
+3bd622cbde9cc7,Santa Cruz Rountree,,Santa Cruz County Sheriff,2021-01-07T20:21:20.056Z,,,CA,,,,,,,,Santa Cruz Rountree
+60044c02aef7c8,Stanislaus County Juvenile Hall,,Stanislaus County Sheriffs Department,2021-01-07T20:21:29.462Z,,,CA,,,,,,,,Stanislaus County Juvenile Hall
+cf2b3975e8c047,Stanislaus County REACT Center,,Stanislaus County Sheriffs Department,2021-01-07T20:21:32.140Z,,,CA,,,,,,,,Stanislaus County REACT Center
+30dfb9431bf3c7,Stanislaus County Sheriff Detention Center West,,Stanislaus County Sheriffs Department,2021-01-07T20:21:35.452Z,,,CA,,,,,,,,Stanislaus County Sheriff Detention Center West
+5649ec097b5e35,Stanislaus County Juvenile Commitment Facility,,Stanislaus County Sheriffs Department,2021-01-07T20:21:39.661Z,,,CA,,,,,,,,Stanislaus County Juvenile Commitment Facility
+65139ffd66753c,Stanislaus County Sheriff Detention Center East,,Stanislaus County Sheriffs Department,2021-01-07T20:21:42.830Z,,,CA,,,,,,,,Stanislaus County Sheriff Detention Center East
+13f26cff1376c8,Stanilaus County Mens Jail,,Stanislaus County Sheriffs Department,2021-01-07T20:21:46.963Z,,,CA,,,,,,,,Stanilaus County Mens Jail
+ac5fed5acf8169,Minimum Housing 1 & 2,,Stanislaus County Sheriffs Department,2021-01-07T20:21:51.799Z,,,CA,,,,,,,,Minimum Housing 1 & 2
+95fd5b2c9e03b1,Tehama County Jail,,Tehama County Jail,2021-01-07T20:22:02.056Z,,,CA,,,,,,,,Tehama County Jail
+af558f5d7c4819,Adams County Sheriffs Dept,,Adams County,2021-01-07T20:22:12.963Z,,,CO,,,,,,,,Adams County Sheriffs Dept
+94feb76b95ea33,Larimer Community Corrections,,Larimer County Criminal Justice Services Division,2021-01-07T20:22:22.261Z,,,CO,,,,,,,,Larimer Community Corrections
+21e179d9172089,Larimer County Alternative Sentencing,,Larimer County Criminal Justice Services Division,2021-01-07T20:22:25.334Z,,,CO,,,,,,,,Larimer County Alternative Sentencing
+b94be50532d88e,Larimer County Detention Center,,Larimer County Jail,2021-01-07T20:22:36.360Z,,,CO,,,,,,,,Larimer County Detention Center
+b0cbe693f228e2,Mesa County Detention Facility,,Mesa County Sheriffs Office,2021-01-07T20:22:46.061Z,,,CO,,,,,,,,Mesa County Detention Facility
+633988cde06c19,Mesa County Criminal Justice  - Powell,,Mesa County Sheriffs Office,2021-01-07T20:22:48.788Z,,,CO,,,,,,,,Mesa County Criminal Justice  - Powell
+2623bec685dd32,Mesa County Criminal Justice - Bridger,,Mesa County Sheriffs Office,2021-01-07T20:22:52.133Z,,,CO,,,,,,,,Mesa County Criminal Justice - Bridger
+46f12e4a8ed53f,Mesa County Criminal Justice - Chipeta,,Mesa County Sheriffs Office,2021-01-07T20:22:56.138Z,,,CO,,,,,,,,Mesa County Criminal Justice - Chipeta
+3742da1d7789c4,Mesa County Criminal Justice - Escalante,,Mesa County Sheriffs Office,2021-01-07T20:23:00.139Z,,,CO,,,,,,,,Mesa County Criminal Justice - Escalante
+171dd786f89086,Delaware County Jail,,Delaware County Sheriffs Office,2021-01-07T20:25:03.690Z,,,DE,,,,,,,,Delaware County Jail
+d08f0116db312b,GEO South Bay Correctional Facility,,GEO South Bay Correctional Facility,2021-01-07T20:25:15.789Z,,,FL,,,,,,,,GEO South Bay Correctional Facility
+bcf13ee335ab3a,Hamilton County Sheriff,,Hamilton County,2021-01-07T20:25:24.763Z,,,FL,,,,,,,,Hamilton County Sheriff
+7ad136581f82e0,Hernando County,,Hernando County,2021-01-07T20:25:32.993Z,,,FL,,,,,,,,Hernando County
+bd5f65216ce451,Transition House,,Kissimmee County/Transition House,2021-01-07T20:25:41.666Z,,,FL,,,,,,,,Transition House
+544fe571b35699,Lafayette,,Lafayette County,2021-01-07T20:25:51.151Z,,,FL,,,,,,,,Lafayette
+ed21b89dc59aa1,Main Detention Center,,Monroe County Sheriff,2021-01-07T20:25:58.957Z,,,FL,,,,,,,,Main Detention Center
+bcdfd1375993ba,Marathon Detention Center,,Monroe County Sheriff,2021-01-07T20:26:01.159Z,,,FL,,,,,,,,Marathon Detention Center
+a047ab71970c5e,Plantation Detention Center,,Monroe County Sheriff,2021-01-07T20:26:04.856Z,,,FL,,,,,,,,Plantation Detention Center
+d4e01fed9774cc,Osceola County Correctional Facility,,Osceola County Corrections,2021-01-07T20:26:13.164Z,,,FL,,,,,,,,Osceola County Correctional Facility
+0e6b608f7ed097,Land O Lakes Detention Center,,Pasco County Sheriff,2021-01-07T20:26:21.261Z,,,FL,,,,,,,,Land O Lakes Detention Center
+967bb5e596260e,Volusia County Correctional Facility,,Volusia County,2021-01-07T20:26:28.369Z,,,FL,,,,,,,,Volusia County Correctional Facility
+981e34f7ea31ff,Volusia County Branch Jail,,Volusia County,2021-01-07T20:26:31.055Z,,,FL,,,,,,,,Volusia County Branch Jail
+2b31868a40559c,JAOT - offsite housing,,Volusia County,2021-01-07T20:26:35.137Z,,,FL,,,,,,,,JAOT - offsite housing
+181f59811e321c,Washington County Jail,,Washington County Sheriffs Office,2021-01-07T20:26:44.472Z,,,FL,,,,,,,,Washington County Jail
+73f9d893b86e49,Treasure Coast Forensic Treatment Center,,Wellpath Treasure Coast Forensic Treatment Center,2021-01-07T20:26:53.074Z,,,FL,,,,,,,,Treasure Coast Forensic Treatment Center
+6bc3dbcb059d75,Bartow County Jail,,Bartow County Sheriffs Office,2021-01-07T20:27:02.957Z,,,GA,,,,,,,,Bartow County Jail
+730e8c6f36de9f,Bulloch County Prison,,Bulloch County,2021-01-07T20:27:10.663Z,,,GA,,,,,,,,Bulloch County Prison
+7eb0fdf2da1f76,Carroll County Prison,,Carroll County Prison,2021-01-07T20:27:18.169Z,,,GA,,,,,,,,Carroll County Prison
+3f64bbf44778dd,City of Atlanta Jail,,City of Atlanta,2021-01-07T20:27:25.659Z,,,GA,,,,,,,,City of Atlanta Jail
+efa648d1c93ccb,Coweta County Prison,,Coweta County,2021-01-07T20:27:33.167Z,,,GA,,,,,,,,Coweta County Prison
+3a7f1841e17b01,Coweta County Work Release,,Coweta County,2021-01-07T20:27:36.197Z,,,GA,,,,,,,,Coweta County Work Release
+9f8182c9a50acf,Dawson County Detention Center,,Dawson County Detention Center,2021-01-07T20:27:44.266Z,,,GA,,,,,,,,Dawson County Detention Center
+f124566c6a2880,Decatur County Prison,,Decatur County,2021-01-07T20:27:52.262Z,,,GA,,,,,,,,Decatur County Prison
+e969e26da52f1a,Decatur County Jail,,Decatur County Jail,2021-01-07T20:27:59.463Z,,,GA,,,,,,,,Decatur County Jail
+d6621cd0c79bbc,Floyd County Jail,,Floyd County Jail,2021-01-07T20:28:05.959Z,,,GA,,,,,,,,Floyd County Jail
+8a9ff52c2d97f2,Floyd County Prison,,Floyd County Jail,2021-01-07T20:28:08.673Z,,,GA,,,,,,,,Floyd County Prison
+b983e795e17fcf,Floyd County Work Release Center,,Floyd County Jail,2021-01-07T20:28:12.238Z,,,GA,,,,,,,,Floyd County Work Release Center
+b15a791d0f1cac,Hall County Correctional Instutution,,Hall County Correctional Institution,2021-01-07T20:28:48.963Z,,,GA,,,,,,,,Hall County Correctional Instutution
+ba721231d22a46,Jackson County Correctional Institution,,Jackson County Correctional Institution,2021-01-07T20:28:56.970Z,,,GA,,,,,,,,Jackson County Correctional Institution
+39c7201104cb08,Mitchell County Correctional Institute,,Mitchell County Correctional Institute,2021-01-07T20:29:05.666Z,,,GA,,,,,,,,Mitchell County Correctional Institute
+c44cb0faf0bccb,Mitchell County Jail,,Mitchell County Sheriffs Office,2021-01-07T20:29:14.065Z,,,GA,,,,,,,,Mitchell County Jail
+1b28ac66df2072,Richmond County Correctional Institute,,Richmond County Correctional Institute,2021-01-07T20:29:23.357Z,,,GA,,,,,,,,Richmond County Correctional Institute
+f898067edef7a3,Screven County Correctional Institute,,Screven County Correctional Institute,2021-01-07T20:29:30.962Z,,,GA,,,,,,,,Screven County Correctional Institute
+9b0ce95f92b2a9,Screven County Firehouse,,Screven County Correctional Institute,2021-01-07T20:29:34.366Z,,,GA,,,,,,,,Screven County Firehouse
+6e5b12bd6524a3,Spalding County Correctional Institution,,Spalding County Correctional Institution,2021-01-07T20:29:43.959Z,,,GA,,,,,,,,Spalding County Correctional Institution
+be0a80ba33888a,Terrell County Correctional Institute,,Terrell County Correctional Institute,2021-01-07T20:29:52.059Z,,,GA,,,,,,,,Terrell County Correctional Institute
+b4308fd2e661a7,Athens-Clarke County Correctional Institution,,The Unified Government of Athens,2021-01-07T20:29:59.762Z,,,GA,,,,,,,,Athens-Clarke County Correctional Institution
+d3e7cddf16b05b,Athens-Clarke County Diversion Center,,The Unified Government of Athens,2021-01-07T20:30:02.162Z,,,GA,,,,,,,,Athens-Clarke County Diversion Center
+f5085c507d5f41,Washington County Jail,,Washington County Sheriffs Office,2021-01-07T20:30:12.163Z,,,GA,,,,,,,,Washington County Jail
+132575f1b9f93b,South Boise Womens Correctional Center (SBWCC),,Idaho Department Of Corrections,2021-01-07T20:30:26.467Z,,,ID,,,,,,,,South Boise Womens Correctional Center (SBWCC)
+8c7cf49c46d0b5,South Idaho Correctional Institution (SICI),,Idaho Department Of Corrections,2021-01-07T20:30:29.238Z,,,ID,,,,,,,,South Idaho Correctional Institution (SICI)
+bf8f1589485043,Nampa CRC (N-CRC),,Idaho Department Of Corrections,2021-01-07T20:30:33.453Z,,,ID,,,,,,,,Nampa CRC (N-CRC)
+e1bbc3c70e8451,Twin Falls CRC (TF-CRC),,Idaho Department Of Corrections,2021-01-07T20:30:37.160Z,,,ID,,,,,,,,Twin Falls CRC (TF-CRC)
+04f24dfda71673,Idaho State Correctional Center (ISCC),,Idaho Department Of Corrections,2021-01-07T20:30:40.147Z,,,ID,,,,,,,,Idaho State Correctional Center (ISCC)
+7a6e14e90f57ad,Idaho State Correctional Institution (ISCI),,Idaho Department Of Corrections,2021-01-07T20:30:43.733Z,,,ID,,,,,,,,Idaho State Correctional Institution (ISCI)
+3f65a5ca5ae91c,MISC-NON-DOC,,Idaho Department Of Corrections,2021-01-07T20:30:48.237Z,,,ID,,,,,,,,MISC-NON-DOC
+3beb8c4639a47f,North Idaho Correctional Institution (NICI),,Idaho Department Of Corrections,2021-01-07T20:30:52.073Z,,,ID,,,,,,,,North Idaho Correctional Institution (NICI)
+b092491de25b5a,St. Anthony Work Camp (SAWC),,Idaho Department Of Corrections,2021-01-07T20:30:55.845Z,,,ID,,,,,,,,St. Anthony Work Camp (SAWC)
+3b49b433a69d28,Idaho Falls CRC (IF-CRC),,Idaho Department Of Corrections,2021-01-07T20:30:59.676Z,,,ID,,,,,,,,Idaho Falls CRC (IF-CRC)
+006a936a2f4575,County Facilities,,Idaho Department Of Corrections,2021-01-07T20:31:03.657Z,,,ID,,,,,,,,County Facilities
+32d25da89953cc,Treasure Valley CRC (TV-CRC),,Idaho Department Of Corrections,2021-01-07T20:31:07.456Z,,,ID,,,,,,,,Treasure Valley CRC (TV-CRC)
+9e5cb05af83b63,Correctional Alternative Placement Program (CAPP),,Idaho Department Of Corrections,2021-01-07T20:31:11.418Z,,,ID,,,,,,,,Correctional Alternative Placement Program (CAPP)
+f15d55b1317e64,Idaho Maximum Security Institution (IMSI),,Idaho Department Of Corrections,2021-01-07T20:31:15.722Z,,,ID,,,,,,,,Idaho Maximum Security Institution (IMSI)
+70c76dc88dfd13,East Boise CRC (EB-CRC),,Idaho Department Of Corrections,2021-01-07T20:31:19.334Z,,,ID,,,,,,,,East Boise CRC (EB-CRC)
+5d25c945f53001,Idaho Correctional Institution-Orofino (ICIO),,Idaho Department Of Corrections,2021-01-07T20:31:23.353Z,,,ID,,,,,,,,Idaho Correctional Institution-Orofino (ICIO)
+aeea5f29ede82f,Pocatello Womens Correctional Center (PWCC),,Idaho Department Of Corrections,2021-01-07T20:31:27.954Z,,,ID,,,,,,,,Pocatello Womens Correctional Center (PWCC)
+97f3dc1367f217,Clinton County Jail,,Clinton County Sheriffs Office,2021-01-07T20:31:40.967Z,,,IL,,,,,,,,Clinton County Jail
+2b89abaed04709,Fayette County Sheriffs Office,,Fayette County Sheriffs Office,2021-01-07T20:31:49.761Z,,,IL,,,,,,,,Fayette County Sheriffs Office
+cdb3f64daca62b,Kane County Sheriffs Office,,Kane County Sheriffs Office,2021-01-07T20:31:58.564Z,,,IL,,,,,,,,Kane County Sheriffs Office
+01bf5fbc3ae024,Madison County Jail,,Madison County Sheriffs Office,2021-01-07T20:32:07.958Z,,,IL,,,,,,,,Madison County Jail
+35101fd7d04792,Marion County Jail,,Marion County Sheriffs Office,2021-01-07T20:32:17.871Z,,,IL,,,,,,,,Marion County Jail
+663554ee6bc31f,McHenry County Correctional Facility,,McHenry County Sheriff,2021-01-07T20:32:27.256Z,,,IL,,,,,,,,McHenry County Correctional Facility
+2197f2cb9155b2,McLean County Adult Detention Facility,,McLean County,2021-01-07T20:32:35.565Z,,,IL,,,,,,,,McLean County Adult Detention Facility
+e6fbfd0fab8235,Perry County Jail,,Perry County Sheriffs Office,2021-01-07T20:32:44.560Z,,,IL,,,,,,,,Perry County Jail
+3d52e3c895cb21,Sangamon County Jail,,Sangamon County Sheriffs Office,2021-01-07T20:32:53.763Z,,,IL,,,,,,,,Sangamon County Jail
+bda265db442dc8,Blackford County Sheriffs Office,,Blackford County,2021-01-07T20:33:04.753Z,,,IN,,,,,,,,Blackford County Sheriffs Office
+fec9d03df962a3,Boone County Jail,,Boone County Sheriffs Office,2021-01-07T20:33:13.672Z,,,IN,,,,,,,,Boone County Jail
+3d02672c12493b,Dekalb County Community Corrections,,Dekalb County Community Corrections,2021-01-07T20:33:23.464Z,,,IN,,,,,,,,Dekalb County Community Corrections
+e91bcb7514c955,Dekalb County Sheriffs Office,,Dekalb County Sheriffs Office,2021-01-07T20:33:33.385Z,,,IN,,,,,,,,Dekalb County Sheriffs Office
+8302f91c37e301,Fayette County Jail,,Fayette County Sheriffs Office,2021-01-07T20:33:41.867Z,,,IN,,,,,,,,Fayette County Jail
+5ebdeb0d971b57,Huntington County Sheriffs Office,,Huntington County,2021-01-07T20:33:51.384Z,,,IN,,,,,,,,Huntington County Sheriffs Office
+cf63d666b6172e,Steuben County Jail,,Steuben County Sheriffs Office,2021-01-07T20:34:00.261Z,,,IN,,,,,,,,Steuben County Jail
+87788ce4b98870,Dubuque County Jail,,Dubuque County,2021-01-07T20:34:11.981Z,,,IA,,,,,,,,Dubuque County Jail
+f89269592ff87e,Jasper County Jail,,Jasper County Sheriffs Office,2021-01-07T20:34:20.479Z,,,IA,,,,,,,,Jasper County Jail
+a7b7004d8d5989,Phillips County Detention Center,,Phillips County,2021-01-07T20:34:30.578Z,,,KS,,,,,,,,Phillips County Detention Center
+f6c3070d9c56e6,Leavenworth Detention Center,,Leavenworth Detention Center,2021-01-07T20:34:37.967Z,,,KS,,,,,,,,Leavenworth Detention Center
+d33113cc6aeb46,Tallahatchie WYDOC,,Leavenworth Detention Center,2021-01-07T20:34:40.641Z,,,KS,,,,,,,,Tallahatchie WYDOC
+922c9ba4697281,Silverdale Detention Facilities,,Leavenworth Detention Center,2021-01-07T20:34:45.265Z,,,KS,,,,,,,,Silverdale Detention Facilities
+67e5152e527e94,Tallahatchie  MSDOC,,Leavenworth Detention Center,2021-01-07T20:34:48.868Z,,,KS,,,,,,,,Tallahatchie  MSDOC
+f87d9f0deb773b,Hardeman County Correctional Center,,Leavenworth Detention Center,2021-01-07T20:34:53.249Z,,,KS,,,,,,,,Hardeman County Correctional Center
+574d4e35f66ad2,La Palma Correctional Center,,Leavenworth Detention Center,2021-01-07T20:34:58.066Z,,,KS,,,,,,,,La Palma Correctional Center
+958e173e98d31b,West Tennessee Detention Facility,,Leavenworth Detention Center,2021-01-07T20:35:01.864Z,,,KS,,,,,,,,West Tennessee Detention Facility
+18f608a767b628,Whiteville Correctional Facility,,Leavenworth Detention Center,2021-01-07T20:35:05.866Z,,,KS,,,,,,,,Whiteville Correctional Facility
+2a0da2c6ffee7b,Tallahatchie County Correctional Facility,,Leavenworth Detention Center,2021-01-07T20:35:10.179Z,,,KS,,,,,,,,Tallahatchie County Correctional Facility
+cf383bd9e694bf,Tallahatchie ICE,,Leavenworth Detention Center,2021-01-07T20:35:13.488Z,,,KS,,,,,,,,Tallahatchie ICE
+c277d7c9c22885,Tallahatchie VTDOC,,Leavenworth Detention Center,2021-01-07T20:35:17.346Z,,,KS,,,,,,,,Tallahatchie VTDOC
+0a69e745b8a6ce,Tallahatchie PRDOC,,Leavenworth Detention Center,2021-01-07T20:35:20.563Z,,,KS,,,,,,,,Tallahatchie PRDOC
+867f5aeac47c3d,Nevada Southern Detention Center,,Leavenworth Detention Center,2021-01-07T20:35:24.562Z,,,KS,,,,,,,,Nevada Southern Detention Center
+f119e264ead57e,Tallahatchie SCDOC,,Leavenworth Detention Center,2021-01-07T20:35:28.939Z,,,KS,,,,,,,,Tallahatchie SCDOC
+a183b17a77f076,Douglas County Correctional Facility,,Douglas County,2021-01-07T20:35:37.059Z,,,KS,,,,,,,,Douglas County Correctional Facility
+a5267d5aa46632,Douglas offsite housing,,Douglas County,2021-01-07T20:35:40.635Z,,,KS,,,,,,,,Douglas offsite housing
+1ed14d6d027680,Finney County Jail,,Finney County Sheriffs Office,2021-01-07T20:35:48.790Z,,,KS,,,,,,,,Finney County Jail
+9e196fa7df94f7,El Dorado,,Kansas Department of Corrections,2021-01-07T20:35:56.771Z,,,KS,,,,,,,,El Dorado
+1cdfb16353bee4,Larned,,Kansas Department of Corrections,2021-01-07T20:35:59.990Z,,,KS,,,,,,,,Larned
+25f5f71f716fcd,Ellsworth,,Kansas Department of Corrections,2021-01-07T20:36:04.735Z,,,KS,,,,,,,,Ellsworth
+4b53224b048514,El Dorado South East,,Kansas Department of Corrections,2021-01-07T20:36:08.363Z,,,KS,,,,,,,,El Dorado South East
+07cadc1a9878d4,Wichita,,Kansas Department of Corrections,2021-01-07T20:36:12.869Z,,,KS,,,,,,,,Wichita
+f95f0b232dcb5e,Winfield,,Kansas Department of Corrections,2021-01-07T20:36:17.257Z,,,KS,,,,,,,,Winfield
+b5385e61ffa69a,Hutchinson,,Kansas Department of Corrections,2021-01-07T20:36:20.663Z,,,KS,,,,,,,,Hutchinson
+1d9223453a7396,All Facilities,,Kansas Department of Corrections,2021-01-07T20:36:24.376Z,,,KS,,,,,,,,All Facilities
+6ceb0f1d2b618d,LCF - Minimum Facility E,,Kansas Department of Corrections,2021-01-07T20:36:28.036Z,,,KS,,,,,,,,LCF - Minimum Facility E
+f7b9c8c369e30a,Lansing,,Kansas Department of Corrections,2021-01-07T20:36:32.237Z,,,KS,,,,,,,,Lansing
+615d27d6e45b74,Central Office,,Kansas Department of Corrections,2021-01-07T20:36:35.757Z,,,KS,,,,,,,,Central Office
+0fc8cb90feccea,Ellsworth Correctional Facility East Unit,,Kansas Department of Corrections,2021-01-07T20:36:39.358Z,,,KS,,,,,,,,Ellsworth Correctional Facility East Unit
+0d63cf4b360f04,Topeka,,Kansas Department of Corrections,2021-01-07T20:36:43.220Z,,,KS,,,,,,,,Topeka
+9544ee8c702133,East Hutchinson,,Kansas Department of Corrections,2021-01-07T20:36:47.133Z,,,KS,,,,,,,,East Hutchinson
+10b77f1480c7ea,Norton,,Kansas Department of Corrections,2021-01-07T20:36:51.464Z,,,KS,,,,,,,,Norton
+7569f806f544aa,Stockton,,Kansas Department of Corrections,2021-01-07T20:36:55.175Z,,,KS,,,,,,,,Stockton
+0e9c08d626f1e6,Kansas Juvenile Correctional Centers,,Kansas Department of Corrections Juvenile Services,2021-01-07T20:37:06.796Z,,,KS,,,,,,,,Kansas Juvenile Correctional Centers
+8c6c62e8c09c1d,Larned State Hospital - PSP,,Larned State Hospital,2021-01-07T20:37:14.164Z,,,KS,,,,,,,,Larned State Hospital - PSP
+415d75f6e5d5ee,Larned State Hospital - SPTP,,Larned State Hospital,2021-01-07T20:37:17.358Z,,,KS,,,,,,,,Larned State Hospital - SPTP
+e7ccea19aa0f2a,Larned State Hospital - SSP,,Larned State Hospital,2021-01-07T20:37:20.952Z,,,KS,,,,,,,,Larned State Hospital - SSP
+ef06dd96b5c23a,East Baton Rouge Parish Prison,,East Baton Rouge Parish Sheriffs Office,2021-01-07T20:37:33.464Z,,,LA,,,,,,,,East Baton Rouge Parish Prison
+ef1ee1ef7c961a,East Baton Rouge Parish Prison Work Release Center,,East Baton Rouge Parish Sheriffs Office,2021-01-07T20:37:35.765Z,,,LA,,,,,,,,East Baton Rouge Parish Prison Work Release Center
+f893966dd21027,Out of Parish,,East Baton Rouge Parish Sheriffs Office,2021-01-07T20:37:39.821Z,,,LA,,,,,,,,Out of Parish
+126da57dec6398,LaFourche Parish Detention Center,,LaFourche Parish Sheriffs Office,2021-01-07T20:37:51.065Z,,,LA,,,,,,,,LaFourche Parish Detention Center
+acf3c386c708b2,Lafourche Parish Transitional Work Program,,LaFourche Parish Sheriffs Office,2021-01-07T20:37:53.755Z,,,LA,,,,,,,,Lafourche Parish Transitional Work Program
+bdff7e44e65090,Lafourche Parish Correctional Complex,,LaFourche Parish Sheriffs Office,2021-01-07T20:37:58.190Z,,,LA,,,,,,,,Lafourche Parish Correctional Complex
+eac76b2df9ce01,LaFourche Parish Galliano Sub-Station,,LaFourche Parish Sheriffs Office,2021-01-07T20:38:02.348Z,,,LA,,,,,,,,LaFourche Parish Galliano Sub-Station
+9872c016ff72f8,ICE Detainees,,Anne Arundel Detention Facilities,2021-01-07T20:38:38.861Z,,,MD,,,,,,,,ICE Detainees
+dde03cde797025,Annapolis,,Anne Arundel Detention Facilities,2021-01-07T20:38:41.465Z,,,MD,,,,,,,,Annapolis
+889600878e6f49,Glen Burnie,,Anne Arundel Detention Facilities,2021-01-07T20:38:45.135Z,,,MD,,,,,,,,Glen Burnie
+9df8d5ff01419d,Baltimore County Corrections,,Baltimore County Corrections,2021-01-07T20:39:15.373Z,,,MD,,,,,,,,Baltimore County Corrections
+6ea180ac5d5280,Precinct 2 Woodlawn,,Baltimore County Corrections,2021-01-07T20:39:16.463Z,,,MD,,,,,,,,Precinct 2 Woodlawn
+3f59056167c1de,Precinct 3 Franklin,,Baltimore County Corrections,2021-01-07T20:39:20.366Z,,,MD,,,,,,,,Precinct 3 Franklin
+0b64e2cbe229a3,Precinct 11 Essex,,Baltimore County Corrections,2021-01-07T20:39:24.683Z,,,MD,,,,,,,,Precinct 11 Essex
+14783dfa5ceade,Precinct 1 Wilkens,,Baltimore County Corrections,2021-01-07T20:39:29.260Z,,,MD,,,,,,,,Precinct 1 Wilkens
+13269bd0231aa9,Precinct 4 Pikesville,,Baltimore County Corrections,2021-01-07T20:39:32.960Z,,,MD,,,,,,,,Precinct 4 Pikesville
+a928540a526ef7,Precinct 8 Parkville,,Baltimore County Corrections,2021-01-07T20:39:37.357Z,,,MD,,,,,,,,Precinct 8 Parkville
+d3cf6c75da014a,Precinct 6 Towson,,Baltimore County Corrections,2021-01-07T20:39:40.259Z,,,MD,,,,,,,,Precinct 6 Towson
+2747209748ff79,Precinct 7 Cockeysville,,Baltimore County Corrections,2021-01-07T20:39:44.263Z,,,MD,,,,,,,,Precinct 7 Cockeysville
+c0da4d0335816d,Precinct 9 White Marsh,,Baltimore County Corrections,2021-01-07T20:39:48.765Z,,,MD,,,,,,,,Precinct 9 White Marsh
+9dcd64752edcae,Precinct 12 Dundalk,,Baltimore County Corrections,2021-01-07T20:39:52.724Z,,,MD,,,,,,,,Precinct 12 Dundalk
+6208e28fd55434,Charles County Detention Center,,Charles County Detention Center,2021-01-07T20:40:01.375Z,,,MD,,,,,,,,Charles County Detention Center
+5efa389fe2f60a,Harford Detention Center,,Harford County Detention,2021-01-07T20:40:10.062Z,,,MD,,,,,,,,Harford Detention Center
+6f0cb659ad7973,Howard County Detention Center,,Howard County Department of Corrections,2021-01-07T20:40:18.481Z,,,MD,,,,,,,,Howard County Detention Center
+f50bf416a02a6f,Montgomery County Correctional Facility,,Montgomery County,2021-01-07T20:40:26.585Z,,,MD,,,,,,,,Montgomery County Correctional Facility
+0bfa230e4fd3ec,Montgomery County Detention Center,,Montgomery County,2021-01-07T20:40:29.256Z,,,MD,,,,,,,,Montgomery County Detention Center
+606ae2047d607f,St. Marys County Detention Center,,St. Marys County Detention Center,2021-01-07T20:40:38.475Z,,,MD,,,,,,,,St. Marys County Detention Center
+abe240e2931cf9,Washington County,,Washington County,2021-01-07T20:40:46.980Z,,,MD,,,,,,,,Washington County
+870f8daca99a61,Hampden County Massachusetts Correctional Center Intake,,Hampden County Sheriffs Department,2021-01-07T20:40:57.969Z,,,MA,,,,,,,,Hampden County Massachusetts Correctional Center Intake
+352a97bd7bc267,Western Massachusetts Women's Correctional Center Intake,,Hampden County Sheriffs Department,2021-01-07T20:41:00.776Z,,,MA,,,,,,,,Western Massachusetts Women's Correctional Center Intake
+f4f6d6658507a0,Western Mass Regional Womens Correctional Center Orientation,,Hampden County Sheriffs Department,2021-01-07T20:41:04.807Z,,,MA,,,,,,,,Western Mass Regional Womens Correctional Center Orientation
+fb79c7a98d4ba1,Hampden Jail Visitation,,Hampden County Sheriffs Department,2021-01-07T20:41:08.475Z,,,MA,,,,,,,,Hampden Jail Visitation
+9dae1f3e5d7433,Stonybrook Stabilization & Treatment Center 2,,Hampden County Sheriffs Department,2021-01-07T20:41:11.964Z,,,MA,,,,,,,,Stonybrook Stabilization & Treatment Center 2
+5c6c32a482e79f,Hampden County Massachusetts Correctional Center Orientation,,Hampden County Sheriffs Department,2021-01-07T20:41:15.635Z,,,MA,,,,,,,,Hampden County Massachusetts Correctional Center Orientation
+95af62c8dd0a6a,Hampden County Jail and House of Correction (HCJHOC),,Hampden County Sheriffs Department,2021-01-07T20:41:20.365Z,,,MA,,,,,,,,Hampden County Jail and House of Correction (HCJHOC)
+e4a73c559cac48,Western Mass Recovery and Wellness Center (WMRWC),,Hampden County Sheriffs Department,2021-01-07T20:41:24.061Z,,,MA,,,,,,,,Western Mass Recovery and Wellness Center (WMRWC)
+6cf204d1ee7a28,Western Mass Regional Womens Correctional Center (WCC),,Hampden County Sheriffs Department,2021-01-07T20:41:28.162Z,,,MA,,,,,,,,Western Mass Regional Womens Correctional Center (WCC)
+1172c673198f56,Hampden Pre Release Center (PRC),,Hampden County Sheriffs Department,2021-01-07T20:41:32.268Z,,,MA,,,,,,,,Hampden Pre Release Center (PRC)
+c88286d4de1055,Stonybrook Stabilization & Treatment Center,,Hampden County Sheriffs Department,2021-01-07T20:41:36.942Z,,,MA,,,,,,,,Stonybrook Stabilization & Treatment Center
+619aa60eab0416,Hampshire Sheriffs Department,,Hampshire County,2021-01-07T20:41:46.661Z,,,MA,,,,,,,,Hampshire Sheriffs Department
+7e557afd248078,Calhoun County Correctional Center,,Calhoun County Sheriffs Office,2021-01-07T20:41:56.970Z,,,MI,,,,,,,,Calhoun County Correctional Center
+c784d143474ab5,Cass County Jail,,Cass County Sheriffs Office,2021-01-07T20:42:05.262Z,,,MI,,,,,,,,Cass County Jail
+345dd0d006658f,Huron County Jail,,Huron County Sheriffs Office,2021-01-07T20:42:13.064Z,,,MI,,,,,,,,Huron County Jail
+26b2b8733ed538,Ionia County Correctional Center,,Ionia County,2021-01-07T20:42:21.574Z,,,MI,,,,,,,,Ionia County Correctional Center
+60f76f3e8f3edd,Kalkaska County Jail,,Kalkaska County Sheriffs Office,2021-01-07T20:42:28.882Z,,,MI,,,,,,,,Kalkaska County Jail
+3707c58b9043bd,Kent County Correctional Facility,,Kent County,2021-01-07T20:42:37.476Z,,,MI,,,,,,,,Kent County Correctional Facility
+7557411704fe66,Lake County Jail,,Lake County Sheriffs Department,2021-01-07T20:42:45.967Z,,,MI,,,,,,,,Lake County Jail
+fb8331b426e533,Livingston County Jail,,Livingston County,2021-01-07T20:42:53.862Z,,,MI,,,,,,,,Livingston County Jail
+2e332564d252d1,Macomb County Jail,,Macomb County,2021-01-07T20:43:01.258Z,,,MI,,,,,,,,Macomb County Jail
+16d4e3d3fd6043,Mason County Jail,,Mason County Sheriffs Office,2021-01-07T20:43:08.573Z,,,MI,,,,,,,,Mason County Jail
+61c7d3fa7d3dda,Mecosta County Jail,,Mecosta County,2021-01-07T20:43:15.764Z,,,MI,,,,,,,,Mecosta County Jail
+693d2bcc20694a,Monroe Adult Detention,,Monroe County,2021-01-07T20:43:23.665Z,,,MI,,,,,,,,Monroe Adult Detention
+303ff39431af47,Inmate Dormitory Facility,,Monroe County,2021-01-07T20:43:26.759Z,,,MI,,,,,,,,Inmate Dormitory Facility
+7c8610035df902,Montcalm County Jail,,Montcalm County Sheriffs Office,2021-01-07T20:43:36.661Z,,,MI,,,,,,,,Montcalm County Jail
+f57cd35bf82c6f,Oakland County Jail,,Oakland County Sheriffs Office,2021-01-07T20:43:44.966Z,,,MI,,,,,,,,Oakland County Jail
+8ca9595dd5997b,Oakland County Jail - East Annex,,Oakland County Sheriffs Office,2021-01-07T20:43:47.646Z,,,MI,,,,,,,,Oakland County Jail - East Annex
+4d871e7ce1de7e,Oakland County Childrens Village,,Oakland County Sheriffs Office,2021-01-07T20:43:52.062Z,,,MI,,,,,,,,Oakland County Childrens Village
+25cc2eb584490d,Osceola County Jail,,Osceola County Sheriffs Office,2021-01-07T20:44:00.160Z,,,MI,,,,,,,,Osceola County Jail
+4bb44437aa7c9f,Tuscola County Jail,,Tuscola County Jail,2021-01-07T20:44:07.165Z,,,MI,,,,,,,,Tuscola County Jail
+7dfae6c7aa6116,Anoka County Main Jail,,Anoka County Detention Facility,2021-01-07T20:44:16.383Z,,,MN,,,,,,,,Anoka County Main Jail
+aebca59d93349b,Olmsted County Adult Detention Center,,Olmsted County Sheriffs Office,2021-01-07T20:44:25.266Z,,,MN,,,,,,,,Olmsted County Adult Detention Center
+a8adbbb01e44b6,Olmsted County Work Release Facility,,Olmsted County Sheriffs Office,2021-01-07T20:44:27.554Z,,,MN,,,,,,,,Olmsted County Work Release Facility
+2624819e36e7ea,Olmsted County Juvenile Detention Center,,Olmsted County Sheriffs Office,2021-01-07T20:44:30.943Z,,,MN,,,,,,,,Olmsted County Juvenile Detention Center
+5bbad389010d1f,Ramsey County Workhouse,,Ramsey Workhouse,2021-01-07T20:44:40.466Z,,,MN,,,,,,,,Ramsey County Workhouse
+8da3d210b9839d,Clay County Detention Center,,Clay County Sheriffs Office,2021-01-07T20:44:50.360Z,,,MS,,,,,,,,Clay County Detention Center
+57712cee87d49b,Leavenworth Detention Center,,Tallahatchie County Correctional Facility,2021-01-07T20:44:58.064Z,,,MS,,,,,,,,Leavenworth Detention Center
+f2e6db56b74978,Tallahatchie WYDOC,,Tallahatchie County Correctional Facility,2021-01-07T20:45:01.188Z,,,MS,,,,,,,,Tallahatchie WYDOC
+c7462f7670511c,Silverdale Detention Facilities,,Tallahatchie County Correctional Facility,2021-01-07T20:45:05.373Z,,,MS,,,,,,,,Silverdale Detention Facilities
+21fbff1895e9dd,Tallahatchie  MSDOC,,Tallahatchie County Correctional Facility,2021-01-07T20:45:09.683Z,,,MS,,,,,,,,Tallahatchie  MSDOC
+45c2325e4a9ad0,Hardeman County Correctional Center,,Tallahatchie County Correctional Facility,2021-01-07T20:45:13.298Z,,,MS,,,,,,,,Hardeman County Correctional Center
+5ab180345ecff5,La Palma Correctional Center,,Tallahatchie County Correctional Facility,2021-01-07T20:45:17.349Z,,,MS,,,,,,,,La Palma Correctional Center
+3b820416aa2978,West Tennessee Detention Facility,,Tallahatchie County Correctional Facility,2021-01-07T20:45:20.573Z,,,MS,,,,,,,,West Tennessee Detention Facility
+5982b225e895af,Whiteville Correctional Facility,,Tallahatchie County Correctional Facility,2021-01-07T20:45:24.557Z,,,MS,,,,,,,,Whiteville Correctional Facility
+4015dbf55eb08c,Tallahatchie County Correctional Facility,,Tallahatchie County Correctional Facility,2021-01-07T20:45:28.272Z,,,MS,,,,,,,,Tallahatchie County Correctional Facility
+35eff163b41577,Tallahatchie ICE,,Tallahatchie County Correctional Facility,2021-01-07T20:45:32.566Z,,,MS,,,,,,,,Tallahatchie ICE
+8b9ea380ba2922,Tallahatchie VTDOC,,Tallahatchie County Correctional Facility,2021-01-07T20:45:36.917Z,,,MS,,,,,,,,Tallahatchie VTDOC
+1ac4bafeb962ef,Tallahatchie PRDOC,,Tallahatchie County Correctional Facility,2021-01-07T20:45:40.252Z,,,MS,,,,,,,,Tallahatchie PRDOC
+a95cf62fd094ff,Nevada Southern Detention Center,,Tallahatchie County Correctional Facility,2021-01-07T20:45:44.694Z,,,MS,,,,,,,,Nevada Southern Detention Center
+b1dd63bc98a48f,Tallahatchie SCDOC,,Tallahatchie County Correctional Facility,2021-01-07T20:45:48.466Z,,,MS,,,,,,,,Tallahatchie SCDOC
+ea15cbd240f8f9,Holmes-Humphreys County,,Holmes,2021-01-07T20:51:53.261Z,,,MS,,,,,,,,Holmes-Humphreys County
+8b074cc4687ca7,Holmes-Humphreys State Inmates,,Holmes,2021-01-07T20:51:57.374Z,,,MS,,,,,,,,Holmes-Humphreys State Inmates
+1e481fa9f87058,Jefferson Franklin County Regional Correctional Facility,,Jefferson County Sheriffs Office,2021-01-07T20:52:20.450Z,,,MS,,,,,,,,Jefferson Franklin County Regional Correctional Facility
+975f999d3c5466,Jefferson Franklin County Regional Correctional Facility - State,,Jefferson County Sheriffs Office,2021-01-07T20:52:22.862Z,,,MS,,,,,,,,Jefferson Franklin County Regional Correctional Facility - State
+02e86123d80337,Sunflower County Jail,,Sunflower County,2021-01-07T20:52:44.950Z,,,MS,,,,,,,,Sunflower County Jail
+b0b1bcf4652f6d,Boone County Jail,,Boone County Sheriffs Department,2021-01-07T20:52:54.767Z,,,MO,,,,,,,,Boone County Jail
+84b4314336a944,Butler County Jail,,Butler County Sheriffs Office,2021-01-07T20:53:03.261Z,,,MO,,,,,,,,Butler County Jail
+f982dec8fd2685,Camden County Detention,,Camden County,2021-01-07T20:53:11.171Z,,,MO,,,,,,,,Camden County Detention
+5c12dca406eedb,Jefferson County Jail,,Jefferson County Sheriffs Office,2021-01-07T20:53:18.655Z,,,MO,,,,,,,,Jefferson County Jail
+53da0a49165afb,Laclede County Jail,,Laclede County Sheriffs Office,2021-01-07T20:53:25.960Z,,,MO,,,,,,,,Laclede County Jail
+5f1deb6eef9af7,Marion County Detention Center,,Marion County Detention Center,2021-01-07T20:53:32.760Z,,,MO,,,,,,,,Marion County Detention Center
+9175b0f3e6cfc5,Miller County Jail,,Miller County Sheriffs Office,2021-01-07T20:53:39.756Z,,,MO,,,,,,,,Miller County Jail
+5dd0ae16c84ba6,Platte County Detention Center,,Platte County Sheriffs Office,2021-01-07T20:53:49.492Z,,,MO,,,,,,,,Platte County Detention Center
+b16807d568791f,St. Louis County Jail,,St. Louis County,2021-01-07T20:53:54.703Z,,,MO,,,,,,,,St. Louis County Jail
+424bb33963336c,Free Phones,,St. Louis County,2021-01-07T20:54:00.657Z,,,MO,,,,,,,,Free Phones
+29ee99574a43ea,Central Arizona - Florence NVDOC,,Crossroads Correctional Center,2021-01-07T20:54:11.859Z,,,MT,,,,,,,,Central Arizona - Florence NVDOC
+f751035790f45a,Crossroads Correctional Center,,Crossroads Correctional Center,2021-01-07T20:54:15.161Z,,,MT,,,,,,,,Crossroads Correctional Center
+d69e5f948d109b,Saguaro-NVDOC,,Crossroads Correctional Center,2021-01-07T20:54:19.142Z,,,MT,,,,,,,,Saguaro-NVDOC
+b6e575c3f87ff4,Saguaro Correctional Center,,Crossroads Correctional Center,2021-01-07T20:54:23.477Z,,,MT,,,,,,,,Saguaro Correctional Center
+b1317171b52f52,Central Arizona - Florence Correctional Complex,,Crossroads Correctional Center,2021-01-07T20:54:27.062Z,,,MT,,,,,,,,Central Arizona - Florence Correctional Complex
+29c7f342fb796a,Saguaro-USMS,,Crossroads Correctional Center,2021-01-07T20:54:31.550Z,,,MT,,,,,,,,Saguaro-USMS
+83439c46c77aeb,Dawson County Corrections MTDOC Inmates,,Dawson County Corrections,2021-01-07T20:54:40.462Z,,,MT,,,,,,,,Dawson County Corrections MTDOC Inmates
+7a0c90613c9fa6,Dawson County Corrections County Inmates,,Dawson County Corrections,2021-01-07T20:54:43.752Z,,,MT,,,,,,,,Dawson County Corrections County Inmates
+923b4d2e710167,Missoula County Detention Facility,,Missoula County Sheriff,2021-01-07T20:55:05.268Z,,,MT,,,,,,,,Missoula County Detention Facility
+f63aecebb8a4a0,Missoula County Juvenile Facility,,Missoula County Sheriff,2021-01-07T20:55:08.141Z,,,MT,,,,,,,,Missoula County Juvenile Facility
+5e89a9be7d9652,Missoula County DOC Unit 1,,Missoula County Sheriff,2021-01-07T20:55:12.366Z,,,MT,,,,,,,,Missoula County DOC Unit 1
+2b28ee1ea791a5,Riverside Special Unit,,Montana Department of Corrections,2021-01-07T20:55:21.566Z,,,MT,,,,,,,,Riverside Special Unit
+9068e88851caf1,Montana Womens Prison (MWP),,Montana Department of Corrections,2021-01-07T20:55:24.873Z,,,MT,,,,,,,,Montana Womens Prison (MWP)
+52770ecef4ce94,MSP-Minimal Services,,Montana Department of Corrections,2021-01-07T20:55:29.346Z,,,MT,,,,,,,,MSP-Minimal Services
+a5d2a3692d9fbc,Montana State Prison (MSP),,Montana Department of Corrections,2021-01-07T20:55:33.282Z,,,MT,,,,,,,,Montana State Prison (MSP)
+e6e15c8f2e6771,Riverside Youth Correctional Facility (RYCF),,Montana Department of Corrections,2021-01-07T20:55:38.376Z,,,MT,,,,,,,,Riverside Youth Correctional Facility (RYCF)
+ac836d6196e6e6,Pine Hills Youth Correctional Facility (PHYCF),,Montana Department of Corrections,2021-01-07T20:55:41.772Z,,,MT,,,,,,,,Pine Hills Youth Correctional Facility (PHYCF)
+9dea09dc7b9b00,Lewiston Infirmary,,Montana Department of Corrections,2021-01-07T20:55:45.955Z,,,MT,,,,,,,,Lewiston Infirmary
+c69d6d6192a2fc,Pine Hills Training and Treatment Program,,Montana Department of Corrections,2021-01-07T20:55:49.879Z,,,MT,,,,,,,,Pine Hills Training and Treatment Program
+513c55c71cdc85,Riverside Reentry Program,,Montana Department of Corrections,2021-01-07T20:55:53.970Z,,,MT,,,,,,,,Riverside Reentry Program
+203cc8e90a3602,Lancaster County Detention Center,,Lancaster County,2021-01-07T20:56:44.067Z,,,NE,,,,,,,,Lancaster County Detention Center
+f1ce94754dde17,Scotts Bluff County Sheriff,,Scotts Bluff County Sheriff,2021-01-07T20:56:52.263Z,,,NE,,,,,,,,Scotts Bluff County Sheriff
+428d678df9ada0,Scotts Bluff County Juvie,,Scotts Bluff County Sheriff,2021-01-07T20:56:54.940Z,,,NE,,,,,,,,Scotts Bluff County Juvie
+8a163fb5156e77,Carson City Sheriffs Office,,Carson City Sheriffs Office,2021-01-07T20:57:05.962Z,,,NV,,,,,,,,Carson City Sheriffs Office
+d00a3cee1d30e9,Las Vegas City,,City Of Las Vegas Detention Center,2021-01-07T20:57:13.962Z,,,NV,,,,,,,,Las Vegas City
+0125735c1e82e4,Leavenworth Detention Center,,Nevada Southern Detention Center,2021-01-07T20:57:21.658Z,,,NV,,,,,,,,Leavenworth Detention Center
+985faebf6f5629,Tallahatchie WYDOC,,Nevada Southern Detention Center,2021-01-07T20:57:23.840Z,,,NV,,,,,,,,Tallahatchie WYDOC
+67e6b8da355933,Silverdale Detention Facilities,,Nevada Southern Detention Center,2021-01-07T20:57:28.020Z,,,NV,,,,,,,,Silverdale Detention Facilities
+b9ce8df2d3f607,Tallahatchie  MSDOC,,Nevada Southern Detention Center,2021-01-07T20:57:31.242Z,,,NV,,,,,,,,Tallahatchie  MSDOC
+e755b2bd0fa74c,Hardeman County Correctional Center,,Nevada Southern Detention Center,2021-01-07T20:57:35.550Z,,,NV,,,,,,,,Hardeman County Correctional Center
+997521228367b9,La Palma Correctional Center,,Nevada Southern Detention Center,2021-01-07T20:57:38.974Z,,,NV,,,,,,,,La Palma Correctional Center
+5bea5f61687a32,West Tennessee Detention Facility,,Nevada Southern Detention Center,2021-01-07T20:57:43.659Z,,,NV,,,,,,,,West Tennessee Detention Facility
+f6dee35dd4fbef,Whiteville Correctional Facility,,Nevada Southern Detention Center,2021-01-07T20:57:47.353Z,,,NV,,,,,,,,Whiteville Correctional Facility
+e3a8ace281dd01,Tallahatchie County Correctional Facility,,Nevada Southern Detention Center,2021-01-07T20:57:50.744Z,,,NV,,,,,,,,Tallahatchie County Correctional Facility
+5d2bf73f2a52f6,Tallahatchie ICE,,Nevada Southern Detention Center,2021-01-07T20:57:55.357Z,,,NV,,,,,,,,Tallahatchie ICE
+6ad38df80662f9,Tallahatchie VTDOC,,Nevada Southern Detention Center,2021-01-07T20:57:59.949Z,,,NV,,,,,,,,Tallahatchie VTDOC
+4b362839d3a193,Tallahatchie PRDOC,,Nevada Southern Detention Center,2021-01-07T20:58:03.164Z,,,NV,,,,,,,,Tallahatchie PRDOC
+ff1164df52a6d9,Nevada Southern Detention Center,,Nevada Southern Detention Center,2021-01-07T20:58:07.146Z,,,NV,,,,,,,,Nevada Southern Detention Center
+6019a2e069a462,Tallahatchie SCDOC,,Nevada Southern Detention Center,2021-01-07T20:58:10.148Z,,,NV,,,,,,,,Tallahatchie SCDOC
+49a6ca6f6521a7,Elko County Jail,,Elko County Sheriffs Office,2021-01-07T20:58:18.953Z,,,NV,,,,,,,,Elko County Jail
+70d96407919207,Grafton County Jail,,Grafton County,2021-01-07T20:58:29.771Z,,,NH,,,,,,,,Grafton County Jail
+9f0170cbc4b749,Hillsborough County Department of Corrections,,Hillsborough County,2021-01-07T20:58:36.973Z,,,NH,,,,,,,,Hillsborough County Department of Corrections
+22b3f9c2dc4156,Otero County Prison Facility,,MTC Otero County Prison Facility,2021-01-07T20:58:49.850Z,,,NM,,,,,,,,Otero County Prison Facility
+4f379eafc48771,Otero County Prison State Inmates,,MTC Otero County Prison Facility,2021-01-07T20:58:52.965Z,,,NM,,,,,,,,Otero County Prison State Inmates
+656c4f790a4567,Otero County Prison ICE Inmates,,MTC Otero County Prison Facility,2021-01-07T20:58:56.444Z,,,NM,,,,,,,,Otero County Prison ICE Inmates
+a14cc0fe2c0055,Erie County Medical,,Erie County Sheriffs Office,2021-01-07T20:59:08.177Z,,,NY,,,,,,,,Erie County Medical
+6a2a5d98c8e74d,Erie County Holding Center,,Erie County Sheriffs Office,2021-01-07T20:59:11.455Z,,,NY,,,,,,,,Erie County Holding Center
+08441fa101df42,Erie County Correctional Facility,,Erie County Sheriffs Office,2021-01-07T20:59:15.262Z,,,NY,,,,,,,,Erie County Correctional Facility
+a44a70c6076e59,Yankee Facility,,Erie County Sheriffs Office,2021-01-07T20:59:18.571Z,,,NY,,,,,,,,Yankee Facility
+f972393a37bd91,Onondaga County Justice Center,,Onondaga County Justice Center,2021-01-07T20:59:28.361Z,,,NY,,,,,,,,Onondaga County Justice Center
+e5fef532473e61,Onondaga County Justice Booking,,Onondaga County Justice Center,2021-01-07T20:59:31.068Z,,,NY,,,,,,,,Onondaga County Justice Booking
+0adc78086017a5,Onondaga Department Of Correction,,Onondaga Department Of Correction,2021-01-07T20:59:39.969Z,,,NY,,,,,,,,Onondaga Department Of Correction
+9683853ea81558,Orleans County Jail,,Orleans County Jail,2021-01-07T20:59:47.669Z,,,NY,,,,,,,,Orleans County Jail
+33e4d43035c4c6,Caldwell County Detention Center,,Caldwell County Sheriffs Office,2021-01-07T20:59:59.172Z,,,NC,,,,,,,,Caldwell County Detention Center
+6a5f397fefe99b,Cherokee Detention Center,,Eastern Band of Cherokee Indians,2021-01-07T21:00:08.850Z,,,NC,,,,,,,,Cherokee Detention Center
+40be49e49344a0,Gaston County Jail,,Gaston County Sheriffs Office,2021-01-07T21:00:18.152Z,,,NC,,,,,,,,Gaston County Jail
+0bbe70513c6876,Lenoir County Jail,,Lenoir County,2021-01-07T21:00:26.951Z,,,NC,,,,,,,,Lenoir County Jail
+692f15c8a4ec50,Union County Jail,,Union County Sheriffs Office,2021-01-07T21:00:36.554Z,,,NC,,,,,,,,Union County Jail
+aaee1473c1ce52,Wake County Detention Center,,Wake County Sheriffs Office,2021-01-07T21:00:45.469Z,,,NC,,,,,,,,Wake County Detention Center
+84e85e76620d0c,Wake County Public Safety Center,,Wake County Sheriffs Office,2021-01-07T21:00:47.680Z,,,NC,,,,,,,,Wake County Public Safety Center
+55d98f12d3bb1e,Ashland County Sheriffs Office,,Ashland County Sheriffs Office,2021-01-07T21:01:02.355Z,,,OH,,,,,,,,Ashland County Sheriffs Office
+64915b296d8ced,Belmount County Jail,,Belmont County Sheriffs Office,2021-01-07T21:01:11.553Z,,,OH,,,,,,,,Belmount County Jail
+c56dab2240fa04,Coshocton County Jail,,Coshocton County Sheriffs Office,2021-01-07T21:01:19.355Z,,,OH,,,,,,,,Coshocton County Jail
+8f90e690b9e920,Delaware County Jail,,Delaware County Sheriffs Office,2021-01-07T21:01:26.970Z,,,OH,,,,,,,,Delaware County Jail
+8697df991cb4aa,Fairfield County Jail,,Fairfield County Sheriffs Office,2021-01-07T21:01:35.069Z,,,OH,,,,,,,,Fairfield County Jail
+2685c4d0869d62,Franklin County Community Based Correctional Facility,,Franklin County Community Based Correctional Facility,2021-01-07T21:01:43.451Z,,,OH,,,,,,,,Franklin County Community Based Correctional Facility
+e73e274b376165,Gallia County Jail,,Gallia County Sheriffs Office,2021-01-07T21:01:52.358Z,,,OH,,,,,,,,Gallia County Jail
+19a8f93ceb3ef0,Greene County Jail,,Greene County Sheriffs Office,2021-01-07T21:02:00.777Z,,,OH,,,,,,,,Greene County Jail
+a34feb00f56eb6,Greene County Adult Detention Center,,Greene County Sheriffs Office,2021-01-07T21:02:03.272Z,,,OH,,,,,,,,Greene County Adult Detention Center
+141e62dc948f02,Harrison County Jail,,Harrison County,2021-01-07T21:02:12.174Z,,,OH,,,,,,,,Harrison County Jail
+61002ce685c1db,Highland County Justice Center,,Highland County Sheriffs Office,2021-01-07T21:02:21.072Z,,,OH,,,,,,,,Highland County Justice Center
+d842c3427a8683,Huron County Sheriffs Office,,Huron County Sheriffs Office,2021-01-07T21:02:29.778Z,,,OH,,,,,,,,Huron County Sheriffs Office
+dd450c570b7482,Jackson County Jail,,Jackson County Sheriff Office,2021-01-07T21:02:38.376Z,,,OH,,,,,,,,Jackson County Jail
+9b5be3bb7940f9,Licking County Jail,,Licking County Sheriffs Office,2021-01-07T21:02:47.367Z,,,OH,,,,,,,,Licking County Jail
+221739b01b7a52,Lorain County Jail,,Lorain County Sheriffs Office,2021-01-07T21:02:55.677Z,,,OH,,,,,,,,Lorain County Jail
+e9b0e7dbdce597,Lorain-Medina Community Based Correctional Facility,,Lorain/Medina Community Based Correctional Facility,2021-01-07T21:03:05.272Z,,,OH,,,,,,,,Lorain-Medina Community Based Correctional Facility
+aa42cc6660897a,Monroe County Jail,,Monroe County Sheriff Office,2021-01-07T21:03:14.074Z,,,OH,,,,,,,,Monroe County Jail
+23213e98a74f20,Morrow County Correctional Facility,,Morrow County Sheriffs Office,2021-01-07T21:03:21.961Z,,,OH,,,,,,,,Morrow County Correctional Facility
+2c0c942ac86cfd,Muskingum County Jail,,Muskingum County Sheriffs Office,2021-01-07T21:03:32.459Z,,,OH,,,,,,,,Muskingum County Jail
+62567c900ae713,Northwest Community Corrections Center,,Northwest Community Corrections Center,2021-01-07T21:03:41.369Z,,,OH,,,,,,,,Northwest Community Corrections Center
+656b9a8cb95f2a,Ohio River Valley Corrections Center,,Ohio River Valley Corrections Center,2021-01-07T21:03:50.274Z,,,OH,,,,,,,,Ohio River Valley Corrections Center
+71b64051af639a,Pickaway County Jail,,Pickaway County Sheriffs Office,2021-01-07T21:03:58.762Z,,,OH,,,,,,,,Pickaway County Jail
+fc7a888e3992dd,Portage County Justice Center Corrections Division,,Portage County Sheriffs Office,2021-01-07T21:04:08.081Z,,,OH,,,,,,,,Portage County Justice Center Corrections Division
+05450b8dd59782,Preble County Jail,,Preble County Sheriffs Office,2021-01-07T21:04:16.881Z,,,OH,,,,,,,,Preble County Jail
+f532bace0e0fcd,Ross County Jail,,Ross County Sheriffs Office,2021-01-07T21:04:26.277Z,,,OH,,,,,,,,Ross County Jail
+99fc4663ed673f,Scioto County Jail,,Scioto County Jail,2021-01-07T21:04:36.182Z,,,OH,,,,,,,,Scioto County Jail
+8dbeb66d4776fb,STAR Community Justice Center,,STAR Community Justice Center,2021-01-07T21:04:46.757Z,,,OH,,,,,,,,STAR Community Justice Center
+d0af7771d09b46,Stark County Jail,,Stark County Sheriffs Office,2021-01-07T21:04:56.951Z,,,OH,,,,,,,,Stark County Jail
+ad837d14f4e64e,Summit County Jail,,Summit County Jail,2021-01-07T21:05:06.077Z,,,OH,,,,,,,,Summit County Jail
+ccfb43ee61d1ec,The Phoenix Center,,The Phoenix Center,2021-01-07T21:05:15.381Z,,,OH,,,,,,,,The Phoenix Center
+c66627d8541903,Tuscarawas County Jail,,Tuscarawas County Sheriffs Office,2021-01-07T21:05:24.272Z,,,OH,,,,,,,,Tuscarawas County Jail
+b63d9d0a795f66,Warren County Jail,,Warren County,2021-01-07T21:05:32.677Z,,,OH,,,,,,,,Warren County Jail
+61fc514262ed08,Washington County Jail,,Washington County,2021-01-07T21:05:40.665Z,,,OH,,,,,,,,Washington County Jail
+b358b7c93fccc4,West Central Community Correctional Facility,,West Central Community Correctional Facility,2021-01-07T21:05:48.676Z,,,OH,,,,,,,,West Central Community Correctional Facility
+f1044216624691,Charleston Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:05:56.861Z,,,OH,,,,,,,,Charleston Correctional Center
+a5587980c2c57f,Mt Olive Correctional Complex,,Ohio County Correctional Complex,2021-01-07T21:06:00.165Z,,,OH,,,,,,,,Mt Olive Correctional Complex
+f9970873d2d97a,Parkersburg Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:03.883Z,,,OH,,,,,,,,Parkersburg Correctional Center
+66a3f1dcdcabfb,Beckley Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:08.286Z,,,OH,,,,,,,,Beckley Correctional Center
+b2f690bdc28c09,Huntington Work Release Center,,Ohio County Correctional Complex,2021-01-07T21:06:11.955Z,,,OH,,,,,,,,Huntington Work Release Center
+5e5e0748d04811,Lakin Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:15.354Z,,,OH,,,,,,,,Lakin Correctional Center
+8dc713e0290279,Saint Marys Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:19.971Z,,,OH,,,,,,,,Saint Marys Correctional Center
+bfded8deb06c07,Northern Correctional Facility,,Ohio County Correctional Complex,2021-01-07T21:06:24.173Z,,,OH,,,,,,,,Northern Correctional Facility
+d02a7c4c75a3b9,Ohio County Correctional Complex,,Ohio County Correctional Complex,2021-01-07T21:06:27.849Z,,,OH,,,,,,,,Ohio County Correctional Complex
+5069471b441207,Salem Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:31.170Z,,,OH,,,,,,,,Salem Correctional Center
+64a24de6e11e93,Pruntytown Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:35.357Z,,,OH,,,,,,,,Pruntytown Correctional Center
+1583c43e58c65a,Martinsburg Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:38.451Z,,,OH,,,,,,,,Martinsburg Correctional Center
+2ee4e558909eee,Huttonsville Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:41.865Z,,,OH,,,,,,,,Huttonsville Correctional Center
+f77aa02600d1c8,Denmar Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:45.186Z,,,OH,,,,,,,,Denmar Correctional Center
+c2383659395450,Anthony Correctional Center,,Ohio County Correctional Complex,2021-01-07T21:06:48.936Z,,,OH,,,,,,,,Anthony Correctional Center
+701bf28c4b594a,Douglas County Jail,,Douglas County Sheriffs Office,2021-01-07T21:07:06.579Z,,,OR,,,,,,,,Douglas County Jail
+51ff26096b6371,Marion County Jail,,Marion County Sheriffs Office,2021-01-07T21:07:15.357Z,,,OR,,,,,,,,Marion County Jail
+cb4faea7b11401,Marion County Transition Center,,Marion County Sheriffs Office,2021-01-07T21:07:18.303Z,,,OR,,,,,,,,Marion County Transition Center
+6578f6dd908ec0,Two Rivers Correctional Institution (TRCI),,Oregon Department of Corrections,2021-01-07T21:07:28.385Z,,,OR,,,,,,,,Two Rivers Correctional Institution (TRCI)
+c81b5feac65e79,Snake River Correctional Institution (SRCI),,Oregon Department of Corrections,2021-01-07T21:07:31.412Z,,,OR,,,,,,,,Snake River Correctional Institution (SRCI)
+3c21759c6ac740,Dome Testing,,Oregon Department of Corrections,2021-01-07T21:07:35.558Z,,,OR,,,,,,,,Dome Testing
+5ee7cc87d24c95,Coffee Creek Correctional Facility (CCCF),,Oregon Department of Corrections,2021-01-07T21:07:39.660Z,,,OR,,,,,,,,Coffee Creek Correctional Facility (CCCF)
+fa3faa1e956b3a,Columbia River Correctional Institution (CRCI),,Oregon Department of Corrections,2021-01-07T21:07:43.481Z,,,OR,,,,,,,,Columbia River Correctional Institution (CRCI)
+154d8dfd6c7a5a,South Fork Forest Camp (SFFC),,Oregon Department of Corrections,2021-01-07T21:07:47.355Z,,,OR,,,,,,,,South Fork Forest Camp (SFFC)
+bbd4a249b4a967,Eastern Oregon Correctional Institution (EOCI),,Oregon Department of Corrections,2021-01-07T21:07:51.368Z,,,OR,,,,,,,,Eastern Oregon Correctional Institution (EOCI)
+e810bdd6370dab,Oregon State Correctional Institution (OSCI),,Oregon Department of Corrections,2021-01-07T21:07:55.075Z,,,OR,,,,,,,,Oregon State Correctional Institution (OSCI)
+83dae525173541,Santiam Correctional Institution (SCI),,Oregon Department of Corrections,2021-01-07T21:07:59.239Z,,,OR,,,,,,,,Santiam Correctional Institution (SCI)
+ab3d326e458954,Powder River Correctional Facility (PRCF),,Oregon Department of Corrections,2021-01-07T21:08:02.770Z,,,OR,,,,,,,,Powder River Correctional Facility (PRCF)
+6737ebde5e7c07,Warner Creek Correctional Facility (WCCF),,Oregon Department of Corrections,2021-01-07T21:08:06.939Z,,,OR,,,,,,,,Warner Creek Correctional Facility (WCCF)
+a8909cf689da5e,Deer Ridge Correctional Institution (DRCI),,Oregon Department of Corrections,2021-01-07T21:08:10.541Z,,,OR,,,,,,,,Deer Ridge Correctional Institution (DRCI)
+2e165ed15204b3,Mill Creek Correctional Facility (MCCF),,Oregon Department of Corrections,2021-01-07T21:08:14.902Z,,,OR,,,,,,,,Mill Creek Correctional Facility (MCCF)
+0fd00f4890f1cf,Oregon State Penitentiary (OSP),,Oregon Department of Corrections,2021-01-07T21:08:19.187Z,,,OR,,,,,,,,Oregon State Penitentiary (OSP)
+524e9eea0ae198,Shutter Creek Correctional Institution (SCCI),,Oregon Department of Corrections,2021-01-07T21:08:24.895Z,,,OR,,,,,,,,Shutter Creek Correctional Institution (SCCI)
+808f4b9cc1b097,Thompson Correctional Center - TCC,,Oregon Correctional Center,2021-01-07T21:08:36.181Z,,,OR,,,,,,,,Thompson Correctional Center - TCC
+d7e73678f4a312,Milwaukee Womens Correctional Center - MWCC,,Oregon Correctional Center,2021-01-07T21:08:39.285Z,,,OR,,,,,,,,Milwaukee Womens Correctional Center - MWCC
+50a7b4f5a34450,John C. Burke Correctional Center - JCBCC,,Oregon Correctional Center,2021-01-07T21:08:43.377Z,,,OR,,,,,,,,John C. Burke Correctional Center - JCBCC
+ca7461da9594f7,McNaughton Correctional Center - MCC,,Oregon Correctional Center,2021-01-07T21:08:46.975Z,,,OR,,,,,,,,McNaughton Correctional Center - MCC
+92829d9fdce5b0,Robert E Ellsworth Correctional Center - REECC,,Oregon Correctional Center,2021-01-07T21:08:51.334Z,,,OR,,,,,,,,Robert E Ellsworth Correctional Center - REECC
+ab0e352e57f29a,Marshall Sherrer Correctional Center - MSCC,,Oregon Correctional Center,2021-01-07T21:08:55.674Z,,,OR,,,,,,,,Marshall Sherrer Correctional Center - MSCC
+40323c6564ab37,Jackson Correctional Institution - JCI,,Oregon Correctional Center,2021-01-07T21:08:59.367Z,,,OR,,,,,,,,Jackson Correctional Institution - JCI
+18d29451fd650b,Kettle Moraine Correctional Institution - KMCI,,Oregon Correctional Center,2021-01-07T21:09:03.470Z,,,OR,,,,,,,,Kettle Moraine Correctional Institution - KMCI
+8919c98cbd0ee2,Dodge Correctional Institution - DCI,,Oregon Correctional Center,2021-01-07T21:09:08.511Z,,,OR,,,,,,,,Dodge Correctional Institution - DCI
+0c5cb07cefd46e,Fox Lake Correctional Institution - FLCI,,Oregon Correctional Center,2021-01-07T21:09:13.281Z,,,OR,,,,,,,,Fox Lake Correctional Institution - FLCI
+a7b55d897373d0,Oregon Correctional Center - OCC,,Oregon Correctional Center,2021-01-07T21:09:17.909Z,,,OR,,,,,,,,Oregon Correctional Center - OCC
+ff58c9d91adee7,Drug Abuse Correctional Center - DACC,,Oregon Correctional Center,2021-01-07T21:09:21.894Z,,,OR,,,,,,,,Drug Abuse Correctional Center - DACC
+ffe7eb671421f8,Kenosha Correctional Center - KCC,,Oregon Correctional Center,2021-01-07T21:09:26.093Z,,,OR,,,,,,,,Kenosha Correctional Center - KCC
+b0559538c1107f,Milwaukee Secured Detention Facility - MSDF,,Oregon Correctional Center,2021-01-07T21:09:30.072Z,,,OR,,,,,,,,Milwaukee Secured Detention Facility - MSDF
+dac7144ffca3fd,Flambeau Correctional Center - FCC,,Oregon Correctional Center,2021-01-07T21:09:34.493Z,,,OR,,,,,,,,Flambeau Correctional Center - FCC
+17c60c6cda673c,Felmers O. Chaney Correctional Center - FOCCC,,Oregon Correctional Center,2021-01-07T21:09:39.369Z,,,OR,,,,,,,,Felmers O. Chaney Correctional Center - FOCCC
+5232fe48b641b5,Racine Youthful Offenders Correctional Facility -RYOCF,,Oregon Correctional Center,2021-01-07T21:09:43.273Z,,,OR,,,,,,,,Racine Youthful Offenders Correctional Facility -RYOCF
+47ec5a488c8908,GROW Academy - GROW,,Oregon Correctional Center,2021-01-07T21:09:48.070Z,,,OR,,,,,,,,GROW Academy - GROW
+421d1f238d165b,Sanger B. Powers Correctional Center - SPCC,,Oregon Correctional Center,2021-01-07T21:09:52.773Z,,,OR,,,,,,,,Sanger B. Powers Correctional Center - SPCC
+d0cc8e4f636253,Gordon Correctional Center - GCC,,Oregon Correctional Center,2021-01-07T21:09:57.675Z,,,OR,,,,,,,,Gordon Correctional Center - GCC
+fcd2f81ff0f034,Winnebago Correctional Center - WCC,,Oregon Correctional Center,2021-01-07T21:10:01.674Z,,,OR,,,,,,,,Winnebago Correctional Center - WCC
+04ba96970dd5e6,Sturtevant Transitional Facility - STF,,Oregon Correctional Center,2021-01-07T21:10:05.460Z,,,OR,,,,,,,,Sturtevant Transitional Facility - STF
+fd8a1df9572a1f,Oakhill Correctional Institution - OCI,,Oregon Correctional Center,2021-01-07T21:10:10.099Z,,,OR,,,,,,,,Oakhill Correctional Institution - OCI
+980940935737a2,Wisconsin Secure Program Facility - WSPF,,Oregon Correctional Center,2021-01-07T21:10:14.165Z,,,OR,,,,,,,,Wisconsin Secure Program Facility - WSPF
+8b4efd4b050701,Green Bay Correctional Institution - GBCI,,Oregon Correctional Center,2021-01-07T21:10:18.083Z,,,OR,,,,,,,,Green Bay Correctional Institution - GBCI
+93b9d4cd9d8c82,Taycheedah Correctional Institution - TCI,,Oregon Correctional Center,2021-01-07T21:10:22.301Z,,,OR,,,,,,,,Taycheedah Correctional Institution - TCI
+9937b31366391e,Oshkosh Correctional Institution - OSCI,,Oregon Correctional Center,2021-01-07T21:10:27.447Z,,,OR,,,,,,,,Oshkosh Correctional Institution - OSCI
+0dec380aec3021,Columbia Correctional Institution - CCI,,Oregon Correctional Center,2021-01-07T21:10:32.093Z,,,OR,,,,,,,,Columbia Correctional Institution - CCI
+66a65a44c50db9,New Lisbon Correctional Institution - NLCI,,Oregon Correctional Center,2021-01-07T21:10:36.069Z,,,OR,,,,,,,,New Lisbon Correctional Institution - NLCI
+3bbda6f4322de5,Lincoln Hills School/Copper Lake School - LHS/CLS,,Oregon Correctional Center,2021-01-07T21:10:39.737Z,,,OR,,,,,,,,Lincoln Hills School/Copper Lake School - LHS/CLS
+75eff961c26618,Chippewa Valley Correctional Treatment Facility - CVCTF,,Oregon Correctional Center,2021-01-07T21:10:43.144Z,,,OR,,,,,,,,Chippewa Valley Correctional Treatment Facility - CVCTF
+0a1966faf6b6bb,Saint Croix Correctional Center - SCCC,,Oregon Correctional Center,2021-01-07T21:10:47.390Z,,,OR,,,,,,,,Saint Croix Correctional Center - SCCC
+acbf4747b71c37,Racine Correctional Institution - RCI,,Oregon Correctional Center,2021-01-07T21:10:52.379Z,,,OR,,,,,,,,Racine Correctional Institution - RCI
+0da6e39a555b17,Black River Falls Correctional Center - BRCC,,Oregon Correctional Center,2021-01-07T21:10:56.669Z,,,OR,,,,,,,,Black River Falls Correctional Center - BRCC
+2e6cc57c5e11d7,Stanley Correctional Institution - SCI,,Oregon Correctional Center,2021-01-07T21:11:00.972Z,,,OR,,,,,,,,Stanley Correctional Institution - SCI
+46b12ac7b19a66,Redgranite Correctional Institution - RGCI,,Oregon Correctional Center,2021-01-07T21:11:05.462Z,,,OR,,,,,,,,Redgranite Correctional Institution - RGCI
+c8de43cde4d6f9,Prairie du Chein Correctional Institution - PDCI,,Oregon Correctional Center,2021-01-07T21:11:10.569Z,,,OR,,,,,,,,Prairie du Chein Correctional Institution - PDCI
+765c4353d5c3f1,Waupun Correctional Institution - WCI,,Oregon Correctional Center,2021-01-07T21:11:15.052Z,,,OR,,,,,,,,Waupun Correctional Institution - WCI
+731eb3fb618f6b,Armstrong County Jail,,Armstrong County Jail,2021-01-07T21:11:28.553Z,,,PA,,,,,,,,Armstrong County Jail
+696d28fa5c4bf8,Columbia County Jail,,Columbia County PA,2021-01-07T21:11:36.859Z,,,PA,,,,,,,,Columbia County Jail
+8c0fb2e3f19b5d,Elk County Prison,,Elk County Prison,2021-01-07T21:11:45.374Z,,,PA,,,,,,,,Elk County Prison
+c8e04858bcfad3,Jefferson County Jail,,Jefferson County Pennsylvania,2021-01-07T21:11:53.873Z,,,PA,,,,,,,,Jefferson County Jail
+febc78d9f1f7a0,McKean County Jail,,McKean County Jail,2021-01-07T21:12:04.061Z,,,PA,,,,,,,,McKean County Jail
+72bcabd55218a7,Northumberland County Jail,,Northumberland County Jail Administration Building,2021-01-07T21:12:14.250Z,,,PA,,,,,,,,Northumberland County Jail
+de0f9d1b9228c6,Warren County Jail,,Warren County Prison,2021-01-07T21:12:24.963Z,,,PA,,,,,,,,Warren County Jail
+e31ed3f01446bb,Washington County Correctional Institution,,Washington County Pennsylvania,2021-01-07T21:12:33.768Z,,,PA,,,,,,,,Washington County Correctional Institution
+437bc8edc53e7b,Abbeville County Detention Center,,Abbeville County Sheriffs Office,2021-01-07T21:12:49.062Z,,,SC,,,,,,,,Abbeville County Detention Center
+9fa7139b062711,Abbeville County Work Dorm,,Abbeville County Sheriffs Office,2021-01-07T21:12:52.685Z,,,SC,,,,,,,,Abbeville County Work Dorm
+639b7cddadc037,Beaufort County Detention Center,,Beaufort County Detention Center,2021-01-07T21:13:16.653Z,,,SC,,,,,,,,Beaufort County Detention Center
+6987110dd8cbc2,Chester County Jail,,Chester County Sheriffs Office,2021-01-07T21:13:27.190Z,,,SC,,,,,,,,Chester County Jail
+24be4194b92863,Correct Care SVTP Facility,,Correct Care of South Carolina,2021-01-07T21:13:38.072Z,,,SC,,,,,,,,Correct Care SVTP Facility
+091f8fe0e31d2c,Upstate,,Correct Care of South Carolina,2021-01-07T21:13:41.313Z,,,SC,,,,,,,,Upstate
+28180d33b044a9,Minnehaha County Corrections Center,,Minnehaha County,2021-01-07T21:13:54.877Z,,,SD,,,,,,,,Minnehaha County Corrections Center
+037b8a2938f3d1,Minnehaha County Jail,,Minnehaha County,2021-01-07T21:13:57.670Z,,,SD,,,,,,,,Minnehaha County Jail
+189b841893dc6e,Leavenworth Detention Center,,La Palma Correctional Center,2021-01-07T21:14:11.066Z,,,TN,,,,,,,,Leavenworth Detention Center
+74458b67d75dec,Tallahatchie WYDOC,,La Palma Correctional Center,2021-01-07T21:14:13.582Z,,,TN,,,,,,,,Tallahatchie WYDOC
+c67b278dd1fed6,Silverdale Detention Facilities,,La Palma Correctional Center,2021-01-07T21:14:16.676Z,,,TN,,,,,,,,Silverdale Detention Facilities
+faabeb825b9eea,Tallahatchie  MSDOC,,La Palma Correctional Center,2021-01-07T21:14:21.140Z,,,TN,,,,,,,,Tallahatchie  MSDOC
+faa7e1f5e9cc53,Hardeman County Correctional Center,,La Palma Correctional Center,2021-01-07T21:14:25.863Z,,,TN,,,,,,,,Hardeman County Correctional Center
+5fb86676559e26,La Palma Correctional Center,,La Palma Correctional Center,2021-01-07T21:14:29.343Z,,,TN,,,,,,,,La Palma Correctional Center
+3eb9a28f1badef,West Tennessee Detention Facility,,La Palma Correctional Center,2021-01-07T21:14:33.031Z,,,TN,,,,,,,,West Tennessee Detention Facility
+4635ab39ecfd01,Whiteville Correctional Facility,,La Palma Correctional Center,2021-01-07T21:14:36.761Z,,,TN,,,,,,,,Whiteville Correctional Facility
+5beb9ae187a7fc,Tallahatchie County Correctional Facility,,La Palma Correctional Center,2021-01-07T21:14:40.039Z,,,TN,,,,,,,,Tallahatchie County Correctional Facility
+6327f13889ead1,Tallahatchie ICE,,La Palma Correctional Center,2021-01-07T21:14:44.766Z,,,TN,,,,,,,,Tallahatchie ICE
+bc02cc15e1370b,Tallahatchie VTDOC,,La Palma Correctional Center,2021-01-07T21:14:48.656Z,,,TN,,,,,,,,Tallahatchie VTDOC
+0bc5784bea04bb,Tallahatchie PRDOC,,La Palma Correctional Center,2021-01-07T21:14:52.550Z,,,TN,,,,,,,,Tallahatchie PRDOC
+bd3ff91b2bdadb,Nevada Southern Detention Center,,La Palma Correctional Center,2021-01-07T21:14:56.497Z,,,TN,,,,,,,,Nevada Southern Detention Center
+4d5901a067ac8e,Tallahatchie SCDOC,,La Palma Correctional Center,2021-01-07T21:14:59.536Z,,,TN,,,,,,,,Tallahatchie SCDOC
+7915865b3d1a9b,Coffee County Jail,,Coffee County TN Government,2021-01-07T21:24:44.966Z,,,TN,,,,,,,,Coffee County Jail
+7ce5d82d0a4ee3,Coffee County Work Camp,,Coffee County TN Government,2021-01-07T21:24:47.585Z,,,TN,,,,,,,,Coffee County Work Camp
+c7b1cd1e883e72,Lincoln County Jail,,Lincoln County,2021-01-07T21:29:20.782Z,,,TN,,,,,,,,Lincoln County Jail
+3ea66a95af281b,Rutherford County Jail,,Rutherford County Sheriffs Office,2021-01-07T21:29:29.651Z,,,TN,,,,,,,,Rutherford County Jail
+d559c4586f2288,Rutherford County Correctional Work Center,,Rutherford County Work Release,2021-01-07T21:29:39.059Z,,,TN,,,,,,,,Rutherford County Correctional Work Center
+d2276ee5fc2779,Silverdale Detention Facility,,Silverdale Detention Facility,2021-01-07T21:29:51.567Z,,,TN,,,,,,,,Silverdale Detention Facility
+309411669eb0dd,Trousdale Turner Correctional Center,,Trousdale Turner Correctional Center,2021-01-07T21:30:01.182Z,,,TN,,,,,,,,Trousdale Turner Correctional Center
+de661e203faca4,Justice Intake Assessment Center,,Bexar County Jail,2021-01-07T21:30:13.763Z,,,TX,,,,,,,,Justice Intake Assessment Center
+b3dc6ef35114d9,Bexar County Jail,,Bexar County Jail,2021-01-07T21:30:16.410Z,,,TX,,,,,,,,Bexar County Jail
+58dab20ed3a577,Calhoun County Jail,,Calhoun County,2021-01-07T21:30:26.550Z,,,TX,,,,,,,,Calhoun County Jail
+2f8a2a861d81e8,Collin County Detention Facility,,Collin County Detention Facility,2021-01-07T21:30:36.253Z,,,TX,,,,,,,,Collin County Detention Facility
+482156f89f3b1f,Collin County Juvenile Detention Center,,Collin County Detention Facility,2021-01-07T21:30:39.181Z,,,TX,,,,,,,,Collin County Juvenile Detention Center
+2ad5638468ab32,Collin County Minimum Security Corrections Facility,,Collin County Detention Facility,2021-01-07T21:30:43.960Z,,,TX,,,,,,,,Collin County Minimum Security Corrections Facility
+f16a2234c95239,Comal County Jail,,Comal County Jail,2021-01-07T21:30:54.377Z,,,TX,,,,,,,,Comal County Jail
+3ab0e571a32f30,Eden Detention Center,,Core Civic of TN,2021-01-07T21:31:03.264Z,,,TX,,,,,,,,Eden Detention Center
+aacaaf775fcb72,Eden Detention Center ICE,,Core Civic of TN,2021-01-07T21:31:06.761Z,,,TX,,,,,,,,Eden Detention Center ICE
+704cd22839d26d,First Site,,Courtroom Visitation,2021-01-07T21:31:28.864Z,,,TX,,,,,,,,First Site
+c94d926b0fae5d,GEO CARE Montgomery County,,GEO CARE Montgomery County,2021-01-07T21:31:38.474Z,,,TX,,,,,,,,GEO CARE Montgomery County
+1e8811053b0498,Giles W. Dalby Correctional Facility,,Giles W. Dalby Correctional Facility,2021-01-07T21:31:47.367Z,,,TX,,,,,,,,Giles W. Dalby Correctional Facility
+422b0349d88731,Hunt County Detention Center,,Hunt County,2021-01-07T21:31:56.681Z,,,TX,,,,,,,,Hunt County Detention Center
+b4fc644ce583d5,Hunt County Detention Center Annex,,Hunt County,2021-01-07T21:31:59.588Z,,,TX,,,,,,,,Hunt County Detention Center Annex
+d7a1b408b7904f,Jackson County Detention Center,,Jackson County Detention Center,2021-01-07T21:32:11.373Z,,,TX,,,,,,,,Jackson County Detention Center
+2a5a33cb19cb5d,CEC Kinney County Detention Center,,Kinney County Correctional Center,2021-01-07T21:32:20.487Z,,,TX,,,,,,,,CEC Kinney County Detention Center
+b28f746edeba4c,Kinney County Jail,,Kinney County Correctional Center,2021-01-07T21:32:24.553Z,,,TX,,,,,,,,Kinney County Jail
+f0ff8879b4a7d9,Llano County Jail,,Llano County Sheriffs Office,2021-01-07T21:32:34.777Z,,,TX,,,,,,,,Llano County Jail
+e5116b7b42a4c6,Lubbock County Detention Center,,Lubbock County,2021-01-07T21:32:44.157Z,,,TX,,,,,,,,Lubbock County Detention Center
+2cb6a1dc1b774c,Milam County Jail,,Milam County Sheriffs Office,2021-01-07T21:32:52.253Z,,,TX,,,,,,,,Milam County Jail
+00fcf43a27648c,East Texas Treatment Facility,,Bridgeport Pre,2021-01-07T21:33:00.656Z,,,TX,,,,,,,,East Texas Treatment Facility
+f3dbdf83492bf1,West Texas Intermediate Sanction Facility,,Bridgeport Pre,2021-01-07T21:33:03.260Z,,,TX,,,,,,,,West Texas Intermediate Sanction Facility
+3dc6540fb7bf6b,Bridgeport Pre-Parole Transfer Facility,,Bridgeport Pre,2021-01-07T21:33:07.069Z,,,TX,,,,,,,,Bridgeport Pre-Parole Transfer Facility
+56c6aa92ee1818,MTC - Texas Civil Commitment Center,,MTC,2021-01-07T21:33:53.572Z,,,TX,,,,,,,,MTC - Texas Civil Commitment Center
+a7f3cc36077f8b,Willacy Regional Detention Facility,,MTC Willacy Regional Detention Facility,2021-01-07T21:34:02.084Z,,,TX,,,,,,,,Willacy Regional Detention Facility
+6e7ea41ea5f2ec,Nacogdoches County Jail,,Nacogdoches County Sheriffs Office,2021-01-07T21:34:11.874Z,,,TX,,,,,,,,Nacogdoches County Jail
+a2af0ed294913e,Nueces County Main Jail,,Nueces County Sheriffs Office,2021-01-07T21:34:21.057Z,,,TX,,,,,,,,Nueces County Main Jail
+592768abd63d3d,Nueces County McKinzie Annex,,Nueces County Sheriffs Office,2021-01-07T21:34:24.053Z,,,TX,,,,,,,,Nueces County McKinzie Annex
+a29c729c3364ae,Palo Pinto County Jail,,Palo Pinto County Jail,2021-01-07T21:34:33.860Z,,,TX,,,,,,,,Palo Pinto County Jail
+3bd5cacf48ddb5,Parker County Jail,,Parker County Sheriff,2021-01-07T21:34:41.679Z,,,TX,,,,,,,,Parker County Jail
+6c9f9535c89988,Smith County Jail,,Smith County Sheriffs Office,2021-01-07T21:34:50.557Z,,,TX,,,,,,,,Smith County Jail
+8249ca8c1b00e2,County Low/Medium Risk Facility,,Smith County Sheriffs Office,2021-01-07T21:34:53.570Z,,,TX,,,,,,,,County Low/Medium Risk Facility
+5b6c09335fcc75,Smith County Towers,,Smith County Sheriffs Office,2021-01-07T21:34:57.066Z,,,TX,,,,,,,,Smith County Towers
+5c1a8d186d645f,Webb County Jail,,Webb County Sheriffs Office,2021-01-07T21:35:07.461Z,,,TX,,,,,,,,Webb County Jail
+0e2412f8806276,Kane County Jail,,Kane County Sheriffs Office,2021-01-07T21:35:18.766Z,,,UT,,,,,,,,Kane County Jail
+2eb5bd2ad9d169,Salt Lake County Jail,,Salt Lake County Sheriffs Office,2021-01-07T21:35:28.156Z,,,UT,,,,,,,,Salt Lake County Jail
+c9e43b4b729f1e,Oxbow Jail Facility,,Salt Lake County Sheriffs Office,2021-01-07T21:35:31.365Z,,,UT,,,,,,,,Oxbow Jail Facility
+b4c189968f47f2,San Juan County Detention Center,,San Juan County Detention Center,2021-01-07T21:35:42.485Z,,,UT,,,,,,,,San Juan County Detention Center
+d3ba35cae924cb,Utah State Prison,,Utah DOC,2021-01-07T21:35:51.378Z,,,UT,,,,,,,,Utah State Prison
+5700f54c869a6d,Central Utah Correctional Facility,,Utah DOC,2021-01-07T21:35:54.885Z,,,UT,,,,,,,,Central Utah Correctional Facility
+67eae0803f1c55,Albemarle Charlottesville Regional Jail,,Albemarle Charlottesville Regional Jail Authority,2021-01-07T21:36:12.058Z,,,VA,,,,,,,,Albemarle Charlottesville Regional Jail
+8c5702c22391ff,Arlington Co Detention Center,,Arlington County,2021-01-07T21:36:21.358Z,,,VA,,,,,,,,Arlington Co Detention Center
+0859d99e56d1c5,Chesapeake Correctional Center,,Chesapeake Sheriffs Office,2021-01-07T21:36:29.673Z,,,VA,,,,,,,,Chesapeake Correctional Center
+a9143d1d79355a,Chesapeake Juvenile Services,,Chesapeake Sheriffs Office,2021-01-07T21:36:32.985Z,,,VA,,,,,,,,Chesapeake Juvenile Services
+5696faaa370cd8,Adult DC,,Danville City Jail,2021-01-07T21:36:53.980Z,,,VA,,,,,,,,Adult DC
+16f21efc968104,Juvenile DC,,Danville City Jail,2021-01-07T21:36:57.375Z,,,VA,,,,,,,,Juvenile DC
+69ff64f0e71396,Danville City Jail,,Danville City Jail,2021-01-07T21:37:00.659Z,,,VA,,,,,,,,Danville City Jail
+e08b5d1f96cf09,Pre-Release Center,,Fairfax County Sheriff,2021-01-07T21:37:08.980Z,,,VA,,,,,,,,Pre-Release Center
+73874c4d1efeea,Adult Detention Center,,Fairfax County Sheriff,2021-01-07T21:37:12.275Z,,,VA,,,,,,,,Adult Detention Center
+1f46a8c04d2879,Farmville Detention Center,,ICA,2021-01-07T21:37:33.692Z,,,VA,,,,,,,,Farmville Detention Center
+3e15374b9defb8,Middle Peninsula Regional Security Center,,Middle Peninsula Regional,2021-01-07T21:37:41.586Z,,,VA,,,,,,,,Middle Peninsula Regional Security Center
+7a18c488bf9d06,Pittsylvania County Jail,,Pittsylvania County Sheriffs Office,2021-01-07T21:37:53.581Z,,,VA,,,,,,,,Pittsylvania County Jail
+d2bdd68a87c131,Roanoke County Jail,,Roanoke County,2021-01-07T21:38:02.856Z,,,VA,,,,,,,,Roanoke County Jail
+e96f0d50a9d885,Sussex County Jail,,Sussex County Jail,2021-01-07T21:38:10.183Z,,,VA,,,,,,,,Sussex County Jail
+c368c3be4f70ca,Western Virginia Regional Jail Authority,,Western Virginia Regional Jail Authority,2021-01-07T21:38:18.189Z,,,VA,,,,,,,,Western Virginia Regional Jail Authority
+e39017567851d7,Stevens Correctional Center,,McDowell County,2021-01-07T21:38:26.182Z,,,VA,,,,,,,,Stevens Correctional Center
+5b8ce3a7187449,McDowell County Correctional Center,,McDowell County,2021-01-07T21:38:29.989Z,,,VA,,,,,,,,McDowell County Correctional Center
+a5a55957ade8d5,Charleston Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:38:40.755Z,,,VA,,,,,,,,Charleston Correctional Center
+8c9efd300e42f8,Mt Olive Correctional Complex,,Mt Olive Correctional Complex,2021-01-07T21:38:44.392Z,,,VA,,,,,,,,Mt Olive Correctional Complex
+7b8346c70b1eab,Parkersburg Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:38:48.564Z,,,VA,,,,,,,,Parkersburg Correctional Center
+09d6213ed4f9cf,Beckley Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:38:53.056Z,,,VA,,,,,,,,Beckley Correctional Center
+78d60e0ad7c530,Huntington Work Release Center,,Mt Olive Correctional Complex,2021-01-07T21:38:57.578Z,,,VA,,,,,,,,Huntington Work Release Center
+642ceafff7a676,Lakin Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:01.490Z,,,VA,,,,,,,,Lakin Correctional Center
+d0c73138efbcd7,Saint Marys Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:06.078Z,,,VA,,,,,,,,Saint Marys Correctional Center
+5e6fe222b35589,Northern Correctional Facility,,Mt Olive Correctional Complex,2021-01-07T21:39:10.281Z,,,VA,,,,,,,,Northern Correctional Facility
+f27fdf8f829012,Ohio County Correctional Complex,,Mt Olive Correctional Complex,2021-01-07T21:39:14.691Z,,,VA,,,,,,,,Ohio County Correctional Complex
+def60b2a138562,Salem Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:22.792Z,,,VA,,,,,,,,Salem Correctional Center
+c16904f69ebfe3,Pruntytown Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:27.360Z,,,VA,,,,,,,,Pruntytown Correctional Center
+4806ec5163f103,Martinsburg Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:31.688Z,,,VA,,,,,,,,Martinsburg Correctional Center
+8f5eff8f97675b,Huttonsville Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:35.183Z,,,VA,,,,,,,,Huttonsville Correctional Center
+8aa2aa66cf3054,Denmar Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:39.980Z,,,VA,,,,,,,,Denmar Correctional Center
+2f4a49796f6c14,Anthony Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:39:44.853Z,,,VA,,,,,,,,Anthony Correctional Center
+915c4c85f7a352,Washington County Jail,,Washington County Sheriffs Office,2021-01-07T21:56:53.881Z,,,WA,,,,,,,,Washington County Jail
+4ac06cea874fae,Washington County,,Washington County,2021-01-07T21:57:11.987Z,,,WA,,,,,,,,Washington County
+b151d748556be8,Washington County Correctional Institution,,Washington County Pennsylvania,2021-01-07T21:57:29.984Z,,,WA,,,,,,,,Washington County Correctional Institution
+df77325bd25af7,Benton County Jail,,Benton County Corrections Department,2021-01-07T21:57:39.768Z,,,WA,,,,,,,,Benton County Jail
+1d8e521424bea6,Grays Harbor County Jail,,Grays Harbor County Sheriffs Office,2021-01-07T21:57:49.856Z,,,WA,,,,,,,,Grays Harbor County Jail
+8cffffbb8f3b77,Quinault Nation Police Department & Holding Facility,,Quinault Nation Police Department & Holding Facility,2021-01-07T21:57:59.959Z,,,WA,,,,,,,,Quinault Nation Police Department & Holding Facility
+984ae0749e103f,Yakima City Jail,,Yakima City Jail,2021-01-07T21:58:09.476Z,,,WA,,,,,,,,Yakima City Jail
+47be6b14441e0b,Stevens Correctional Center,,McDowell County,2021-01-07T21:58:29.864Z,,,WV,,,,,,,,Stevens Correctional Center
+114961c941bc90,McDowell County Correctional Center,,McDowell County,2021-01-07T21:58:32.728Z,,,WV,,,,,,,,McDowell County Correctional Center
+e9fcc56884f772,Charleston Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:58:42.999Z,,,WV,,,,,,,,Charleston Correctional Center
+8333129cd699d5,Mt Olive Correctional Complex,,Mt Olive Correctional Complex,2021-01-07T21:58:46.754Z,,,WV,,,,,,,,Mt Olive Correctional Complex
+b213c5feb1dbcc,Parkersburg Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:58:50.993Z,,,WV,,,,,,,,Parkersburg Correctional Center
+de2313e0865116,Beckley Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:58:55.981Z,,,WV,,,,,,,,Beckley Correctional Center
+4ad8fc60f806e6,Huntington Work Release Center,,Mt Olive Correctional Complex,2021-01-07T21:58:59.785Z,,,WV,,,,,,,,Huntington Work Release Center
+88a2b409e35050,Lakin Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:04.359Z,,,WV,,,,,,,,Lakin Correctional Center
+221a975909cd7a,Saint Marys Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:08.345Z,,,WV,,,,,,,,Saint Marys Correctional Center
+46cbe4c3c8b0ef,Northern Correctional Facility,,Mt Olive Correctional Complex,2021-01-07T21:59:12.893Z,,,WV,,,,,,,,Northern Correctional Facility
+39c4882157ed11,Ohio County Correctional Complex,,Mt Olive Correctional Complex,2021-01-07T21:59:16.951Z,,,WV,,,,,,,,Ohio County Correctional Complex
+0c0348a1d52203,Salem Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:21.262Z,,,WV,,,,,,,,Salem Correctional Center
+914405fedd4161,Pruntytown Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:24.979Z,,,WV,,,,,,,,Pruntytown Correctional Center
+9e0dc10858118f,Martinsburg Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:29.460Z,,,WV,,,,,,,,Martinsburg Correctional Center
+825cc7b127fe03,Huttonsville Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:33.683Z,,,WV,,,,,,,,Huttonsville Correctional Center
+12dfc6693c1c49,Denmar Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:37.883Z,,,WV,,,,,,,,Denmar Correctional Center
+4553dd2dbb88ac,Anthony Correctional Center,,Mt Olive Correctional Complex,2021-01-07T21:59:41.964Z,,,WV,,,,,,,,Anthony Correctional Center
+f2f88856c60dfa,Ashland County Jail,,Ashland County Jail,2021-01-07T22:16:50.166Z,,,WI,,,,,,,,Ashland County Jail
+733675e14f0320,Calumet County Jail,,Calumet County Sheriff,2021-01-07T22:17:04.383Z,,,WI,,,,,,,,Calumet County Jail
+2772f0f192be92,Dodge County Jail,,Dodge County,2021-01-07T22:17:13.083Z,,,WI,,,,,,,,Dodge County Jail
+d2051751a506c3,Dodge County Huber Center,,Dodge County,2021-01-07T22:17:16.687Z,,,WI,,,,,,,,Dodge County Huber Center
+e167964971b59c,Door County Sheriffs Department,,Door County,2021-01-07T22:17:38.685Z,,,WI,,,,,,,,Door County Sheriffs Department
+956c63412bcabe,Dunn County Jail,,Dunn County Sherriffs Office,2021-01-07T22:17:46.756Z,,,WI,,,,,,,,Dunn County Jail
+80fa7b8ba7a5d2,Fond Du Lac County Detention Center,,Fond Du Lac County,2021-01-07T22:17:55.556Z,,,WI,,,,,,,,Fond Du Lac County Detention Center
+36760f070b5dbc,Kewaunee County Sheriffs Department,,Kewaunee County,2021-01-07T22:18:03.756Z,,,WI,,,,,,,,Kewaunee County Sheriffs Department
+ab2ce41071ad43,Langlade County Jail,,Langlade County,2021-01-07T22:18:11.858Z,,,WI,,,,,,,,Langlade County Jail
+e0d04ad3664a29,Marinette County Sheriffs Department,,Marinette County,2021-01-07T22:18:21.072Z,,,WI,,,,,,,,Marinette County Sheriffs Department
+c19cfaccb9b5ed,Milwaukee County House of Correction,,Milwaukee County,2021-01-07T22:18:30.172Z,,,WI,,,,,,,,Milwaukee County House of Correction
+6b418c1762529a,Milwaukee County Jail,,Milwaukee County,2021-01-07T22:18:33.479Z,,,WI,,,,,,,,Milwaukee County Jail
+7d244d97f2b7b5,WIDOC State Housing,,Milwaukee County,2021-01-07T22:18:38.462Z,,,WI,,,,,,,,WIDOC State Housing
+fb8ec50496dcff,Ozaukee County Jail,,Ozaukee County,2021-01-07T22:19:04.967Z,,,WI,,,,,,,,Ozaukee County Jail
+e828bd5a32ff91,Walworth County Corrections,,Walworth County Sheriff,2021-01-07T22:19:13.057Z,,,WI,,,,,,,,Walworth County Corrections
+349ec8a9413b91,Walworth Work Release,,Walworth County Sheriff,2021-01-07T22:19:16.673Z,,,WI,,,,,,,,Walworth Work Release
+261b24b0600bcf,Washington County Jail,,Washington County,2021-01-07T22:19:26.083Z,,,WI,,,,,,,,Washington County Jail
+bfe791c7634844,Waushara County Jail,,Waushara County Jail,2021-01-07T22:19:34.281Z,,,WI,,,,,,,,Waushara County Jail
+ad9f43ec95ef7c,Winnebago County Jail,,Winnebago County Sheriffs Office,2021-01-07T22:19:42.778Z,,,WI,,,,,,,,Winnebago County Jail
+976a5bb50024ea,Winnebago DOC Inmates,,Winnebago County Sheriffs Office,2021-01-07T22:19:45.981Z,,,WI,,,,,,,,Winnebago DOC Inmates
+bdbe9ab509bae6,Winnebago GPS Inmates,,Winnebago County Sheriffs Office,2021-01-07T22:19:49.777Z,,,WI,,,,,,,,Winnebago GPS Inmates
+34bfc076ee8f23,Thompson Correctional Center - TCC,,Black River Falls Correctional Center,2021-01-07T22:20:00.488Z,,,WI,,,,,,,,Thompson Correctional Center - TCC
+81b08b59612c1b,Milwaukee Womens Correctional Center - MWCC,,Black River Falls Correctional Center,2021-01-07T22:20:03.286Z,,,WI,,,,,,,,Milwaukee Womens Correctional Center - MWCC
+9cd3e2ac77d516,John C. Burke Correctional Center - JCBCC,,Black River Falls Correctional Center,2021-01-07T22:20:08.092Z,,,WI,,,,,,,,John C. Burke Correctional Center - JCBCC
+7e0f9c10a62b4f,McNaughton Correctional Center - MCC,,Black River Falls Correctional Center,2021-01-07T22:20:13.454Z,,,WI,,,,,,,,McNaughton Correctional Center - MCC
+598bddad895f62,Robert E Ellsworth Correctional Center - REECC,,Black River Falls Correctional Center,2021-01-07T22:20:18.270Z,,,WI,,,,,,,,Robert E Ellsworth Correctional Center - REECC
+c03d043700eb08,Marshall Sherrer Correctional Center - MSCC,,Black River Falls Correctional Center,2021-01-07T22:20:22.952Z,,,WI,,,,,,,,Marshall Sherrer Correctional Center - MSCC
+b8f43818e6e16a,Jackson Correctional Institution - JCI,,Black River Falls Correctional Center,2021-01-07T22:20:27.080Z,,,WI,,,,,,,,Jackson Correctional Institution - JCI
+552b21cf8d7fba,Kettle Moraine Correctional Institution - KMCI,,Black River Falls Correctional Center,2021-01-07T22:20:31.385Z,,,WI,,,,,,,,Kettle Moraine Correctional Institution - KMCI
+8cecca93c2c372,Dodge Correctional Institution - DCI,,Black River Falls Correctional Center,2021-01-07T22:20:36.386Z,,,WI,,,,,,,,Dodge Correctional Institution - DCI
+eca200c0d8c3f0,Fox Lake Correctional Institution - FLCI,,Black River Falls Correctional Center,2021-01-07T22:20:40.579Z,,,WI,,,,,,,,Fox Lake Correctional Institution - FLCI
+470d5b55242632,Oregon Correctional Center - OCC,,Black River Falls Correctional Center,2021-01-07T22:20:45.584Z,,,WI,,,,,,,,Oregon Correctional Center - OCC
+473a62383ea672,Drug Abuse Correctional Center - DACC,,Black River Falls Correctional Center,2021-01-07T22:20:49.491Z,,,WI,,,,,,,,Drug Abuse Correctional Center - DACC
+94f670048a9acd,Kenosha Correctional Center - KCC,,Black River Falls Correctional Center,2021-01-07T22:20:54.189Z,,,WI,,,,,,,,Kenosha Correctional Center - KCC
+c3c8eb3881e62c,Milwaukee Secured Detention Facility - MSDF,,Black River Falls Correctional Center,2021-01-07T22:20:59.084Z,,,WI,,,,,,,,Milwaukee Secured Detention Facility - MSDF
+2df68671d96ba1,Flambeau Correctional Center - FCC,,Black River Falls Correctional Center,2021-01-07T22:21:03.679Z,,,WI,,,,,,,,Flambeau Correctional Center - FCC
+484cd11718ea8f,Felmers O. Chaney Correctional Center - FOCCC,,Black River Falls Correctional Center,2021-01-07T22:21:08.263Z,,,WI,,,,,,,,Felmers O. Chaney Correctional Center - FOCCC
+07b3d83888e996,Racine Youthful Offenders Correctional Facility -RYOCF,,Black River Falls Correctional Center,2021-01-07T22:21:12.764Z,,,WI,,,,,,,,Racine Youthful Offenders Correctional Facility -RYOCF
+15fd067bbcd323,GROW Academy - GROW,,Black River Falls Correctional Center,2021-01-07T22:21:17.706Z,,,WI,,,,,,,,GROW Academy - GROW
+07a92bb8288ecc,Sanger B. Powers Correctional Center - SPCC,,Black River Falls Correctional Center,2021-01-07T22:21:22.086Z,,,WI,,,,,,,,Sanger B. Powers Correctional Center - SPCC
+515bb8750bf55d,Gordon Correctional Center - GCC,,Black River Falls Correctional Center,2021-01-07T22:21:27.169Z,,,WI,,,,,,,,Gordon Correctional Center - GCC
+27046cfc8a013e,Winnebago Correctional Center - WCC,,Black River Falls Correctional Center,2021-01-07T22:21:32.174Z,,,WI,,,,,,,,Winnebago Correctional Center - WCC
+ff0c399f9ddacb,Sturtevant Transitional Facility - STF,,Black River Falls Correctional Center,2021-01-07T22:21:36.168Z,,,WI,,,,,,,,Sturtevant Transitional Facility - STF
+a5efa8b6603f56,Oakhill Correctional Institution - OCI,,Black River Falls Correctional Center,2021-01-07T22:21:40.976Z,,,WI,,,,,,,,Oakhill Correctional Institution - OCI
+b26c29f50263f3,Wisconsin Secure Program Facility - WSPF,,Black River Falls Correctional Center,2021-01-07T22:21:45.068Z,,,WI,,,,,,,,Wisconsin Secure Program Facility - WSPF
+3298b314c3030a,Green Bay Correctional Institution - GBCI,,Black River Falls Correctional Center,2021-01-07T22:21:49.790Z,,,WI,,,,,,,,Green Bay Correctional Institution - GBCI
+4f7bbedc5bbfe5,Taycheedah Correctional Institution - TCI,,Black River Falls Correctional Center,2021-01-07T22:21:54.278Z,,,WI,,,,,,,,Taycheedah Correctional Institution - TCI
+b14d74a4d5a9b7,Oshkosh Correctional Institution - OSCI,,Black River Falls Correctional Center,2021-01-07T22:21:59.755Z,,,WI,,,,,,,,Oshkosh Correctional Institution - OSCI
+19e97ef4131eda,Columbia Correctional Institution - CCI,,Black River Falls Correctional Center,2021-01-07T22:22:08.261Z,,,WI,,,,,,,,Columbia Correctional Institution - CCI
+17b8d69fa98bdb,New Lisbon Correctional Institution - NLCI,,Black River Falls Correctional Center,2021-01-07T22:22:13.583Z,,,WI,,,,,,,,New Lisbon Correctional Institution - NLCI
+a83531d80e6058,Lincoln Hills School/Copper Lake School - LHS/CLS,,Black River Falls Correctional Center,2021-01-07T22:22:18.871Z,,,WI,,,,,,,,Lincoln Hills School/Copper Lake School - LHS/CLS
+e1d57bdff0059e,Chippewa Valley Correctional Treatment Facility - CVCTF,,Black River Falls Correctional Center,2021-01-07T22:22:24.086Z,,,WI,,,,,,,,Chippewa Valley Correctional Treatment Facility - CVCTF
+67d83699c35857,Saint Croix Correctional Center - SCCC,,Black River Falls Correctional Center,2021-01-07T22:22:28.587Z,,,WI,,,,,,,,Saint Croix Correctional Center - SCCC
+ceee90f469ce8f,Racine Correctional Institution - RCI,,Black River Falls Correctional Center,2021-01-07T22:22:33.660Z,,,WI,,,,,,,,Racine Correctional Institution - RCI
+288b0956c78387,Black River Falls Correctional Center - BRCC,,Black River Falls Correctional Center,2021-01-07T22:22:37.693Z,,,WI,,,,,,,,Black River Falls Correctional Center - BRCC
+2a6207dde11dd7,Stanley Correctional Institution - SCI,,Black River Falls Correctional Center,2021-01-07T22:22:41.959Z,,,WI,,,,,,,,Stanley Correctional Institution - SCI
+5a8ee6dc0234ce,Redgranite Correctional Institution - RGCI,,Black River Falls Correctional Center,2021-01-07T22:22:46.952Z,,,WI,,,,,,,,Redgranite Correctional Institution - RGCI
+9cd2ad709248d3,Prairie du Chein Correctional Institution - PDCI,,Black River Falls Correctional Center,2021-01-07T22:22:50.993Z,,,WI,,,,,,,,Prairie du Chein Correctional Institution - PDCI
+d76b99cb97540f,Waupun Correctional Institution - WCI,,Black River Falls Correctional Center,2021-01-07T22:22:55.555Z,,,WI,,,,,,,,Waupun Correctional Institution - WCI
+508ba64a3fe9a3,Wisconsin Resource Center,,Wisconsin Resource Center,2021-01-08T00:27:57.262Z,,,WI,,,,,,,,Wisconsin Resource Center
+c5b3ebc6b51d95,Laramie County Detention Center,,Laramie County Sheriffs Department,2021-01-08T00:28:09.067Z,,,WY,,,,,,,,Laramie County Detention Center
+cad6b870bf7390,Rawlins (WSP),,Wyoming Department Of Corrections,2021-01-08T00:28:18.760Z,,,WY,,,,,,,,Rawlins (WSP)
+54dc31450286da,Lusk (WWC),,Wyoming Department Of Corrections,2021-01-08T00:28:22.767Z,,,WY,,,,,,,,Lusk (WWC)
+303b7014a2f33e,Newcastle (WHCC),,Wyoming Department Of Corrections,2021-01-08T00:28:26.755Z,,,WY,,,,,,,,Newcastle (WHCC)
+ff84a943db356b,Torrington (WTOR),,Wyoming Department Of Corrections,2021-01-08T00:28:31.591Z,,,WY,,,,,,,,Torrington (WTOR)
+cb49158df6865b,Riverton (WHF),,Wyoming Department Of Corrections,2021-01-08T00:29:01.358Z,,,WY,,,,,,,,Riverton (WHF)
