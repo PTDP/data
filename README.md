@@ -46,7 +46,8 @@ The full set of variables that we report includes the following:
 | `phone`                | The phone number provided to the rate calculator.                                                                              |
 | `inState`              | Boolean representing whether the origin phone number is located in the same state as the facility called.                      |
 | `facility`             | The unique facility ID associated with the rate. See the `facility` table below.                                                                                                                                                    |
-| `scraped`              | An array of ISO Strings (UTC) representing each time a scraper encountered this unique rate. We consider a rate to be unique if any of the tracked variables (other than `scraped`) are unique.                                                                                                      |       
+| `scraped`              | An array of ISO Strings (UTC) representing each time a scraper encountered this unique rate. We consider a rate to be unique if any of the tracked variables (other than `scraped`) are unique.                                                                                                              |     
+| `service`              | The type of phone service. For example, Securus offers difference billing standards depending on whether an incarcerated person uses direct billing to pay for a call or traditional collect.                                                                                                         |     
 
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -55,7 +56,6 @@ The full set of variables that we report includes the following:
 | `jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, or `immigration` jurisdiction                                   |
 | `agency`               | Normalized Agency Name                                                                                                         |
 | `createdAt`            | Date data was first scraped (not necessarily date updated by the reporting source)                                             |  
-| `source`               | Source from which the data was scraped                                                                                         |
 | `populationFeb20`      | Population of the facility as close to February 1, 2020 as possible                                                            |
 | `residentsPopulation`  | Current population of incarcerated individuals reported by agency website                                                      |
 | `state`                | State where the facility is located                                                                                            |
