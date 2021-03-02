@@ -18,22 +18,14 @@ We are continuously adding to and refining our scrapers. In production, we also 
 **Contributors**: You can see our [team page](https://prisontelecomdata.org/team) for an updated list of contributors. Please reach out at prison.telcom.data.project@gmail.com if you would like to contribute code, data, or time. We always welcome additional contributors! 
 
 ## Our Data 
-Our core dataset includes the following metrics:
-
-* Cumulative COVID-19 cases 
-* Cumulative COVID-19 deaths 
-* Active COVID-19 cases 
-* COVID-19 tests administered 
-
-We also collect additional information based on what agencies report (e.g. population data and vaccination data). While we aim to collect facility-level data, not all jurisdictions report COVID-19 metrics at the facility level. Some DOCs only report statewide totals, and others do not report any data for certain metrics. Authorities also vary dramatically in how they define the metrics that they report. We do our best to standardize these variables, but comparing data across jurisdictions and over time should be done with caution. 
-
 **Note**: Because our data is scraped from private entities, it is updated and ammended on a schedule we do not control. Furthur, our data represents telecom rates as those entities report them publicly, rather than what rates are in practice.
 
 ## Data Dictionary 
-We maintain two data tables. One represents `Rates`, and the other `Facilities`.
+We maintain three data tables. One represents `Rates`, one is a join table representing that data that each company stores about facilities `CompanyFacilities`, and one represents normalized, canonical data that links a company's representation of a facility to that facility as it exists in the real world `CanonicalFacilities`.
 
 The full set of variables that we report includes the following: 
 
+# Rates
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | `id`                   | Integer ID that uniquely identifies every rate                                                                                 |
@@ -45,29 +37,45 @@ The full set of variables that we report includes the following:
 | `amountTax`            | The percent tax applied to the sum of all billing line-items associated with the call itself. When not provided explicitly by a vendor, the tax percent is calculated from a given-tax line-item, and rounded to 2 significant digits.   
 | `phone`                | The phone number provided to the rate calculator.                                                                              |
 | `inState`              | Boolean representing whether the origin phone number is located in the same state as the facility called.                      |
-| `facility`             | The unique facility ID associated with the rate. See the `facility` table below.                                                                                                                                                    |
-| `scraped`              | An array of ISO Strings (UTC) representing each time a scraper encountered this unique rate. We consider a rate to be unique if any of the tracked variables (other than `scraped`) are unique.                                                                                                              |     
-| `service`              | The type of phone service. For example, Securus offers difference billing standards depending on whether an incarcerated person uses direct billing to pay for a call or traditional collect.                                                                                                         |     
+| `updatedAt`            | An array of ISO Strings (UTC) representing each time a scraper encountered this unique rate. We consider a rate to be unique if any of the tracked variables (other than `scraped`) are unique.                                                                                                                               |     
+| `service`              | The type of phone service. For example, Securus offers difference billing standards depending on whether an incarcerated person uses direct billing to pay for a call or traditional collect.
+| `company`              | `ICS` or `Securus`                                                    |
+| `companyFacility`      | A reference to the `CompanyFacilities` entry that indicates a company's internal representation of the facility that this rate belongs to                                                    |
+| `canonicalFacility`    | A reference to the `CanonicalFacility` entry that indicates which real-world facility a rate belongs to                                                    |
 
+# CompanyFacilities
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | `id`                   | Integer ID that uniquely identifies every facility                                                                             |
-| `name`                 | Normalized Facility Name                                                                                                       |
-| `jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, or `immigration` jurisdiction                                   |
-| `agency`               | Normalized Agency Name                                                                                                         |
+| `facilityInternal`     | The facility name that the company uses internally                                                                             |
+| `agencyInternal`       | The agency name that the company uses internally                                                                               |
+| `stateInternal`        | The facility state that the company users internally                                                                           |
 | `createdAt`            | Date data was first scraped (not necessarily date updated by the reporting source)                                             |  
-| `populationFeb20`      | Population of the facility as close to February 1, 2020 as possible                                                            |
-| `residentsPopulation`  | Current population of incarcerated individuals reported by agency website                                                      |
-| `state`                | State where the facility is located                                                                                            |
-| `address`              | The facility's address                                                                                                         |
-| `zipcode`              | The facility's zipcode                                                                                                         |
-| `city`                 | The facility's city                                                                                                            |
-| `county`               | The facility's county                                                                                                          |
-| `latitude`             | The facility's latitude                                                                                                        |
-| `longitude`            | The facility's longitude                                                                                                       |
-| `countyFIPS`           | The facility's 5-digit county FIPS code                                                                                        |
+| `company`              | The name of the company: `ICS` or `Securus`                                                                                    |
+| `canonicalFacility`    | A reference to the `CanonicalFacilities` entry that links a company facility to a normalized facility that can be joined with other data sets                                                        |
+
+# CanonicalFacilities
+| Variable               | Description                                                                                                                    |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| `id`                   | Integer ID that uniquely identifies every facility                                                                             |
+| `name`                 | Normalized facility name, pulled, in order of preference, from HIFLD, UCLACovid19, Google Maps API, or Company Internal Representation                                                                      |
+| `jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, or `immigration` jurisdiction, from HIFLD, UCLACovid19, or manual aggregation, or order of preference.                                                                                                                                               |
+| `address`              | From Google Maps API                                                                                                           |
+| `googlePlaceName`      | From Google Maps API                                                                                                           |
+| `longitude`            | From Google Maps API                                                                                                           |
+| `latitude`             | From Google Maps API                                                                                                           |
+| `state`                | From Company Internal representation                                                                                           |
 | `HIFLDID`              | The facility's corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
-| `rawName`              | Name From Scraper                                                                                                              |
+| `HIFLD_POPULATION`     | Population reported by HIFLD, duplicated here for convenience |
+| `HIFLD_CAPACITY`       | Capacity reported by HIFLD, duplicated here for convenience |
+| `HIFLD_SOURCE`         | Source of `HIFLD_POPULATION` and `HIFLD_CAPACITY`, duplicated here for convenience |
+| `HIFLD_SOURCEDATE`     | Date `HIFLD_POPULATION` and `HIFLD_CAPACITY` data were scraped, duplicated here for convenience |
+| `UCLACovid19ID`        | The facility's corresponding [UCLA Covid-19 Behind Bars Data Project](https://github.com/uclalawcovid19behindbars/data/blob/master/latest-data/adult_facility_covid_counts.csv) ID |
+| `UCLACovid19_POPULATION` | Facility population reported by UCLACovid19 |
+| `UCLACovid19_SOURCE`     | Source of `UCLACovid19_POPULATION`, duplicated here for convenience |
+| `UCLACovid19_SOURCEDATE` | Date `UCLACovid19_POPULATION` data was scraped, duplicated here for convenience  |
+
+
 
 ## Citations
 

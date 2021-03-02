@@ -1,1 +1,1 @@
-id,jurisdiction,state,name,agency,populationFeb20,residentsPopulation,state,address,zipcode,city,county,latitude,countyFIPS,HIFLID,ICEFieldOffice
+id,jurisdiction,name,agency,population,capacity,source,sourcedate,securelvl,state,address,zipcode,city,county,latitude,countyFIPS,HIFLID,ICEFieldOffice
