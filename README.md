@@ -67,14 +67,7 @@ The full set of variables that we report includes the following:
 | `county`               | From Google Maps API                                                                                                           |
 | `countyFIPS`           | From Google Maps API                                                                                                           |
 | `HIFLDID`              | The facility's corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
-| `HIFLD_POPULATION`     | Population reported by HIFLD, duplicated here for convenience |
-| `HIFLD_CAPACITY`       | Capacity reported by HIFLD, duplicated here for convenience |
-| `HIFLD_SOURCE`         | Source of `HIFLD_POPULATION` and `HIFLD_CAPACITY`, duplicated here for convenience |
-| `HIFLD_SOURCEDATE`     | Date `HIFLD_POPULATION` and `HIFLD_CAPACITY` data were scraped, duplicated here for convenience |
 | `UCLACovid19ID`        | The facility's corresponding [UCLA Covid-19 Behind Bars Data Project](https://github.com/uclalawcovid19behindbars/data/blob/master/latest-data/adult_facility_covid_counts.csv) ID |
-| `UCLACovid19_POPULATION` | Facility population reported by UCLACovid19, duplicated here for convenience |
-| `UCLACovid19_SOURCE`     | Source of `UCLACovid19_POPULATION`, duplicated here for convenience |
-| `UCLACovid19_SOURCEDATE` | Date `UCLACovid19_POPULATION` data was scraped, duplicated here for convenience  |
 
 # Joined Rates
 A convenience CSV, which expands foreign key references in rates (`companyFacility` and `canonicalFacility`), for data analysis.
