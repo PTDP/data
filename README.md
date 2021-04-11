@@ -3,9 +3,11 @@
 
 # Prison Telecom Data Project
 
+For more background about The Prison Telecom Data Project visit our [website](https://prisontelecom.org).
+
 ## Our Data 
 
-You can download a flat CSV with of our latest rate data [here](https://github.com/PTDP/data/blob/main/data/rates.md).
+You can download a CSV with our latest rate data [here](https://github.com/PTDP/data/blob/main/data/rates.md).
 
 **Note**: Because our data is scraped from private entities, it is updated and ammended on a schedule we do not control. Furthur, our data represents telecom rates as those entities report them publicly, rather than what rates are in practice.
 
@@ -47,9 +49,6 @@ The full set of variables that we report includes the following:
 | `company`              | `ICS`, `SECURUS` or `GTL`                                                   |
 | `hidden`               | Whether or not PTDP is currently hiding this rate from display on its website due to lack of confidence in the link to a canonical facility                                                    |
 | `createdAt`            | The time this record was scraped ISO String (UTC)     
-
-## Background 
-The [Prison Telecom Data Project](https://prisontelecomdata.org), launched in January 2021, tracks the rates charged by prison telecom providers for their services, and changes to those rates over time. We started collecting data on traditional phone services in January 2021.
 
 ## Our Methodology  
 You can read the complete details of our methodogy [here](https://prisontelecom.org/methods).
