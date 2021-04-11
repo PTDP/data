@@ -5,7 +5,7 @@
 
 ## Our Data 
 
-You can download a flat CSV with of our rate data [here](https://github.com/PTDP/data/blob/main/data/rates.md).
+You can download a flat CSV with of our latest rate data [here](https://github.com/PTDP/data/blob/main/data/rates.md).
 
 **Note**: Because our data is scraped from private entities, it is updated and ammended on a schedule we do not control. Furthur, our data represents telecom rates as those entities report them publicly, rather than what rates are in practice.
 
